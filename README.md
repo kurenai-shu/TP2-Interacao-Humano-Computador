@@ -9,4 +9,8 @@
 
 [2-matriz-csd](Design-IHC/01-Imersão/2-matriz-csd.md)
 
-[3-pesquisa-com-o-usuário](
+[3-pesquisa-com-o-usuário](Design-IHC/01-Imersão/3-pesquisa-com-o-usuário.md)
+
+### Ideação
+[1-persona](
+
