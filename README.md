@@ -5,4 +5,4 @@
 
 ## Sumário
 ### Imersão
-[1-Briefing](
+[1-Briefing](Design-IHC/01-Imersão/1-briefing.md)
