@@ -6,4 +6,7 @@
 ## Sumário
 ### Imersão 
 [1-Briefing](Design-IHC/01-Imersão/1-briefing.md)
-[2-matriz-csd](
+
+[2-matriz-csd](Design-IHC/01-Imersão/2-matriz-csd.md)
+
+[3-pesquisa-com-o-usuário](
