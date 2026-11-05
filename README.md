@@ -5,11 +5,11 @@
 
 # Sumário
 ## 📁 Imersão 
-[1-Briefing](Design-IHC/01-Imersão/1-briefing.md)
+📁[1-Briefing](Design-IHC/01-Imersão/1-briefing.md)
 
-[2-matriz-csd](Design-IHC/01-Imersão/2-matriz-csd.md)
+📁[2-matriz-csd](Design-IHC/01-Imersão/2-matriz-csd.md)
 
-[3-pesquisa-com-o-usuário](Design-IHC/01-Imersão/3-pesquisa-com-o-usuário.md)
+📁[3-pesquisa-com-o-usuário](Design-IHC/01-Imersão/3-pesquisa-com-o-usuário.md)
 
 ## 📁 Ideação
 📁[1-persona](Design-IHC/02-Ideação/1-Personas.md)
