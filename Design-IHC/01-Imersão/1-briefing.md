@@ -61,7 +61,7 @@ Roteiro semiestruturado, organizado em blocos.
 | P5 | Assumiu a parte administrativa, o descarte de itens desnecessários e a manutenção de itens do laboratório. |
 | P6 | Os itens ficam no almoxarifado. Após o pedido de demanda dos laboratórios, é levada ao laboratório a quantidade solicitada para todo o semestre. Quando falta item, é enviado e-mail (resposta registrada de forma incompleta). |
 | P7 | Escassez de itens de qualidade. |
-| P8 | Não respondida. |
+| P8 | Não foi possivel entender. |
 | P9 | Dificuldade no levantamento de informações sobre os regentes de laboratório. |
 | P10 | Há falhas nos pedidos de material, que precisam ser feitos com 48h de antecedência. Ela recomenda um banco de dados para organizar os pedidos dos professores e facilitar o acesso. |
 | P11 | Sim, outras pessoas dependem do laboratório (sem especificar quais). |
@@ -69,7 +69,7 @@ Roteiro semiestruturado, organizado em blocos.
 | P13 | Não perguntada. |
 | P14 | Atualmente utilizam uma planilha. |
 | P15 | Os pedidos precisam ser feitos antecipadamente, e a falta de organização dos professores afeta o trabalho. (A resposta tratou de outro assunto, não das funcionalidades desejadas.) |
-| P16 | Não respondida. |
+| P16 | Não foi possivel entender. |
 | P17 | Descarte seguro dos materiais: por serem resíduos laboratoriais, aguardam coleta e não podem ser descartados de qualquer maneira. |
 | Pergunta final | Não respondida. |
 
@@ -85,8 +85,6 @@ Roteiro semiestruturado, organizado em blocos.
 | **Padrão prévio** | Planilha, grupo de WhatsApp e e-mail para os pedidos. |
 | **Contato técnico** | A técnica entrevistada. O contato do almoxarifado e dos regentes ainda precisa ser levantado. |
 | **Restrições** | Resíduos laboratoriais exigem descarte seguro e aguardam coleta especializada; pedidos com 48h de antecedência. Restrições técnicas e institucionais ainda não investigadas. |
-
-**Pontos que ficaram em aberto** (tratados na [Matriz CSD](./2-matriz-csd.md)): P8, P13, P16 e a pergunta final sem resposta; destinatário do e-mail de reposição (P6); demanda inicial, fontes de informação e prioridade do cliente.
 
 ## 5. Registro da reunião
 <img width="900" alt="reuniao_censurada" src="https://github.com/user-attachments/assets/28c1541b-1488-4408-a3f6-2fdb80d827e3" />
