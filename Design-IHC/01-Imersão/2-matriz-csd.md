@@ -48,7 +48,7 @@ Questões que a equipe ainda não consegue responder e que devem orientar as pr�
 | # | Dúvida | Como investigar |
 |---|--------|-----------------|
 | D1 | Qual é a principal prioridade de melhoria para a técnica? (P16 não foi possivel entender) | Retomar a pergunta em nova conversa. |
-| D2 | Quais tarefas poderiam ser feitas de forma mais simples ou rápida? (P8 ficou sem resposta) | Entrevista de acompanhamento ou observação da rotina. |
+| D2 | Quais tarefas poderiam ser feitas de forma mais simples ou rápida? (P8 também não foi possivel entender ) | Entrevista de acompanhamento ou observação da rotina. |
 | D3 | Quais ferramentas e sistemas são usados além da planilha? (P13 não foi perguntada) | Perguntar na próxima entrevista. |
 | D4 | Como a planilha é estruturada e o que ela controla (estoque, pedidos, equipamentos)? | Solicitar acesso a um exemplo da planilha. |
 | D5 | Quais funcionalidades a técnica consideraria mais importantes em uma ferramenta? (a resposta da P15 tratou de outro assunto) | Refazer a pergunta ou fazer um brainstorming. |
