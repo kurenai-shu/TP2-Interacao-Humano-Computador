@@ -1,69 +1,66 @@
+# Matriz CSD
 
-# 📊 Matriz CSD 
+Após o briefing com uma técnica do Laboratório de Biologia do ICET/UFAM, a equipe organizou as informações em uma Matriz CSD (Certezas, Suposições e Dúvidas). O objetivo é separar o que tem respaldo na fala da entrevistada do que ainda precisa ser confirmado e do que ainda não se sabe. As suposições e dúvidas orientam a pesquisa complementar com os usuários.
 
-## 1. Contextualização
+**Legenda:** P = pergunta do roteiro da entrevista (a numeração segue o roteiro registrado em `1-briefing.md`).
 
-Após a realização do briefing com uma técnica de laboratório do ICET-UFAM, a equipe organizou as informações obtidas por meio da Matriz CSD (Certezas, Suposições e Dúvidas).
+## C – Certezas
 
-O objetivo é distinguir as informações sustentadas pelas evidências disponíveis das hipóteses que precisam ser confirmadas e das questões que ainda necessitam de investigação. Essa organização permite direcionar as próximas atividades da etapa de imersão.
+Informações sustentadas diretamente pela fala da entrevistada. A fonte é uma única pessoa: a técnica do Laboratório de Biologia.
 
----
+| # | Certeza | Origem |
+|---|---------|--------|
+| C1 | A técnica atua há 18 anos como técnica de laboratório, no Laboratório de Biologia. | P1, P2 |
+| C2 | Suas atividades incluem preparar o laboratório para as aulas dos professores, repor itens e cuidar da organização geral. | P3, P4 |
+| C3 | Ela também assume a parte administrativa, o descarte de itens desnecessários e a manutenção de itens do laboratório. | P5 |
+| C4 | Os itens ficam armazenados no almoxarifado. Após o pedido de demanda dos laboratórios, é levada ao laboratório a quantidade solicitada para todo o semestre. | P6 |
+| C5 | Quando falta algum item, a reposição é solicitada por e-mail. | P6 |
+| C6 | Os pedidos de materiais para as aulas precisam ser feitos com 48 horas de antecedência. | P10 |
+| C7 | Já ocorreram falhas nos pedidos de material para os laboratórios. | P10 |
+| C8 | Há escassez de itens de qualidade. | P7 |
+| C9 | Existe dificuldade em levantar informações sobre os regentes de laboratório. | P9 |
+| C10 | Outras pessoas, além da técnica, dependem do laboratório. | P11 |
+| C11 | A comunicação ocorre por grupo de WhatsApp e por e-mail (o e-mail é usado nos pedidos de material). | P12 |
+| C12 | Atualmente a equipe utiliza uma planilha como ferramenta de apoio. | P14 |
+| C13 | Os resíduos laboratoriais não podem ser descartados de qualquer forma e aguardam coleta especializada. | P17 |
+| C14 | A falta de organização dos professores quanto à antecedência dos pedidos afeta o trabalho do laboratório. | P15 |
 
-## 2. Matriz CSD
+## S – Suposições
 
-A matriz está organizada em três categorias:
+Hipóteses plausíveis que ainda precisam ser confirmadas na pesquisa com os usuários.
 
-| Categoria | Significado |
-|:---:|---|
-| 🟢 **C — Certezas** | Informações relatadas pela entrevistada durante o briefing. |
-| 🟡 **S — Suposições** | Hipóteses e interpretações que precisam ser verificadas. |
-| 🔴 **D — Dúvidas** | Questões ainda não respondidas que orientarão as próximas investigações. |
+| # | Suposição | Base para a hipótese |
+|---|-----------|----------------------|
+| S1 | Os pedidos de material não têm um registro centralizado, o que pode causar falhas e atrasos. | A técnica relatou falhas nos pedidos e apontou a organização dos pedidos como problema (P10). Falta validar com professores e almoxarifado. |
+| S2 | A planilha atual pode não atender totalmente às necessidades de controle e organização. | A técnica relatou falhas e problemas de organização, mas não avaliou a planilha diretamente (P10, P14). |
+| S3 | Os professores são o principal grupo que interage com o processo de pedidos. | A técnica disse que a organização dos professores afeta o trabalho do laboratório (P15). |
+| S4 | A comunicação dispersa (WhatsApp e e-mail) pode dificultar o rastreamento de pedidos e informações. | Uso de dois canais, sem registro único (P12). |
+| S5 | A entrega única de itens para todo o semestre pode gerar falta ou excesso de estoque ao longo do período. | Quando falta item, é preciso solicitar reposição por e-mail (P6). |
+| S6 | A dificuldade com informações dos regentes pode estar ligada à ausência de um cadastro atualizado. | P9 menciona a dificuldade, sem explicar a causa. |
+| S7 | A falta de registro sobre descartes e coletas de resíduos pode dificultar o acompanhamento desses procedimentos. | A restrição de descarte seguro foi destacada (P17). |
+| S8 | As tarefas administrativas ocupam parte significativa do tempo da técnica. | A técnica assumiu a parte administrativa (P5). |
+| S9 | Além dos professores, podem depender do laboratório pesquisadores e alunos. | A técnica confirmou que outras pessoas dependem do laboratório, sem especificar quais (P11). |
 
-### 🟢 C — Certezas
+## D – Dúvidas
 
-Informações obtidas diretamente durante a entrevista com a técnica de laboratório.
+Questões que a equipe ainda não consegue responder e que devem orientar as próximas etapas.
 
-1. A entrevistada informou possuir 18 anos de experiência (o vínculo exato desse período ainda precisa ser confirmado).
-2. O laboratório abordado pertence à área de Biologia.
-3. Entre as responsabilidades da técnica estão a preparação do laboratório para as aulas, a organização do ambiente e a reposição de materiais.
-4. A técnica também assumiu atividades administrativas, incluindo o descarte de itens desnecessários e a manutenção de materiais do laboratório.
-5. Os materiais são armazenados no almoxarifado e distribuídos aos laboratórios conforme as solicitações, em quantidades previstas para o semestre.
-6. Quando ocorre falta de materiais, são realizadas solicitações por e-mail.
-7. Existe dificuldade relacionada à disponibilidade de materiais de qualidade.
-8. Há dificuldades no levantamento de informações sobre os regentes dos laboratórios.
-9. Os pedidos de materiais precisam ser realizados com antecedência mínima de 48 horas.
-10. A comunicação entre os envolvidos acontece por meio de grupos de WhatsApp e e-mail.
-11. Atualmente, é utilizada uma planilha para auxiliar na organização das informações.
-12. A falta de organização dos professores quanto à antecedência dos pedidos afeta o trabalho da técnica.
-13. O descarte de resíduos laboratoriais exige cuidados específicos, sendo necessário aguardar a coleta apropriada.
-
-### 🟡 S — Suposições
-
-Hipóteses levantadas pela equipe a partir das informações obtidas, que precisam ser investigadas.
-
-1. A utilização de diferentes canais de comunicação pode dificultar a centralização das solicitações de materiais.
-2. A ausência de um banco de dados centralizado pode contribuir para dificuldades na organização e consulta dos pedidos.
-3. A utilização de planilhas pode não atender completamente às necessidades de acompanhamento e gerenciamento das atividades.
-4. A falta de padronização nas solicitações dos professores pode contribuir para atrasos e retrabalho.
-5. A dificuldade de levantamento das informações dos regentes pode estar relacionada à ausência de um cadastro centralizado e atualizado.
-6. A falta de controle integrado dos materiais pode dificultar o acompanhamento dos estoques e a identificação de necessidades de reposição.
-7. Uma melhor organização das informações sobre os resíduos laboratoriais pode facilitar o acompanhamento dos procedimentos de coleta e descarte.
-
-### 🔴 D — Dúvidas
-
-Questões que ainda não possuem respostas suficientes e deverão orientar a pesquisa complementar.
-
-1. Como os professores realizam atualmente os pedidos de materiais e quais informações precisam fornecer?
-2. Como é feito o acompanhamento dos pedidos após o envio da solicitação?
-3. Quem é responsável por aprovar, organizar e distribuir os pedidos de materiais?
-4. Como funciona o controle da quantidade de materiais disponíveis no laboratório?
-5. Quais informações sobre os regentes dos laboratórios precisam ser levantadas e mantidas atualizadas?
-6. Quais são as principais dificuldades encontradas na utilização da planilha atual?
-7. Os professores possuem dificuldades para cumprir o prazo de 48 horas? Quais são os motivos?
-8. Como é realizado o registro dos equipamentos que precisam de manutenção?
-9. Como são classificados, armazenados e registrados os resíduos laboratoriais até a coleta?
-10. Qual é a frequência de coleta dos resíduos e quem é responsável por esse procedimento?
-11. As dificuldades relatadas também são enfrentadas por outros técnicos e professores?
-12. Quais informações e atividades precisam ser compartilhadas entre os diferentes usuários do laboratório?
-
-
+| # | Dúvida | Como investigar |
+|---|--------|-----------------|
+| D1 | Qual é a principal prioridade de melhoria para a técnica? (P16 não foi possivel entender) | Retomar a pergunta em nova conversa. |
+| D2 | Quais tarefas poderiam ser feitas de forma mais simples ou rápida? (P8 ficou sem resposta) | Entrevista de acompanhamento ou observação da rotina. |
+| D3 | Quais ferramentas e sistemas são usados além da planilha? (P13 não foi perguntada) | Perguntar na próxima entrevista. |
+| D4 | Como a planilha é estruturada e o que ela controla (estoque, pedidos, equipamentos)? | Solicitar acesso a um exemplo da planilha. |
+| D5 | Quais funcionalidades a técnica consideraria mais importantes em uma ferramenta? (a resposta da P15 tratou de outro assunto) | Refazer a pergunta ou fazer um brainstorming. |
+| D6 | Quais tipos de itens faltam ou têm baixa qualidade, e com que frequência? | Levantar exemplos e registros de pedidos. |
+| D7 | Quem são os regentes de laboratório e quais informações sobre eles precisam ser levantadas? | Entrevistar regentes ou a coordenação. |
+| D8 | Como é o fluxo completo de um pedido (professor → técnica → almoxarifado)? Onde ocorrem os gargalos? | Mapear o processo com a técnica e o almoxarifado. |
+| D9 | Existem regras institucionais, de segurança ou de acesso a dados que limitem uma solução? | Consultar normas da UFAM e a coordenação. |
+| D10 | Qual é o procedimento oficial e o prazo da coleta de resíduos? Há registros obrigatórios? | Verificar normas de gestão de resíduos e o setor responsável. |
+| D11 | Os professores teriam abertura para usar um sistema de pedidos? | Entrevistar professores. |
+| D12 | Há equipamentos disponíveis (computadores, internet) no laboratório para operar um sistema? | Observação in loco. |
+| D13 | Existem outras dificuldades que ela não mencionou? (pergunta final do encerramento sem resposta) | Registrar a resposta ou reaplicar a pergunta. |
+| D14 | O que acontece quando o prazo de 48h não é cumprido? Qual o impacto nas aulas? | Pedir exemplos concretos. |
+| D15 | Para quem exatamente o e-mail de reposição é enviado? (a resposta da P6 ficou incompleta) | Confirmar com a técnica. |
+| D16 | Existem usuários (professores, técnicos, alunos) com necessidade de acessibilidade que usariam o processo de pedidos? | Entrevistar professores e a coordenação. |
+| D17 | Os problemas relatados também ocorrem em outros laboratórios ou são específicos do Laboratório de Biologia? | Entrevistar técnicos de outros laboratórios. |
