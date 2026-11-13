@@ -48,8 +48,6 @@ Roteiro semiestruturado, organizado em blocos.
 16. Se fosse possível melhorar apenas um aspecto da rotina do laboratório, qual seria sua prioridade?
 17. Existe alguma restrição ou exigência que precisaria ser considerada em uma possível solução tecnológica? Por exemplo, regras institucionais, segurança, acesso aos dados ou disponibilidade de equipamentos.
 
-**Pergunta final:** Existe alguma outra dificuldade, necessidade ou sugestão relacionada à sua rotina no laboratório que não abordamos durante esta entrevista e que você considera importante mencionar?
-
 ## 3. Respostas registradas
 
 | Pergunta | Resposta |
@@ -71,7 +69,6 @@ Roteiro semiestruturado, organizado em blocos.
 | P15 | Os pedidos precisam ser feitos antecipadamente, e a falta de organização dos professores afeta o trabalho. (A resposta tratou de outro assunto, não das funcionalidades desejadas.) |
 | P16 | Não foi possivel entender. |
 | P17 | Descarte seguro dos materiais: por serem resíduos laboratoriais, aguardam coleta e não podem ser descartados de qualquer maneira. |
-| Pergunta final | Não respondida. |
 
 ## 4. Síntese das informações (itens exigidos no enunciado)
 
