@@ -64,3 +64,10 @@ Questões que a equipe ainda não consegue responder e que devem orientar as pr�
 | D15 | Para quem exatamente o e-mail de reposição é enviado? (a resposta da P6 ficou incompleta) | Confirmar com a técnica. |
 | D16 | Existem usuários (professores, técnicos, alunos) com necessidade de acessibilidade que usariam o processo de pedidos? | Entrevistar professores e a coordenação. |
 | D17 | Os problemas relatados também ocorrem em outros laboratórios ou são específicos do Laboratório de Biologia? | Entrevistar técnicos de outros laboratórios. |
+
+
+<div align="center">
+  <img width="1000" alt="1" src="https://github.com/user-attachments/assets/75789c60-70bd-4dc5-89c1-2785dd0eeefe" />
+  <p>Figura 1 -- Matriz CSD</p>
+</div>
+
