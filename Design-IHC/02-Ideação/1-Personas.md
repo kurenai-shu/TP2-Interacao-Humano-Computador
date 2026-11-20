@@ -1,9 +1,7 @@
 # PERSONAS
 Abaixo encontra-se as personas criadas:
+<img width="1414" height="2000" alt="Purple Modern Profile Persona Document(1)" src="https://github.com/user-attachments/assets/ab4c7764-9fa5-4fec-b8ba-ba9dcb9ddf09" />
+<img width="1414" height="2000" alt="Purple Modern Profile Persona Document(2)" src="https://github.com/user-attachments/assets/22186f21-c579-4aa4-888c-ce816f7a49dd" />
+<img width="1414" height="2000" alt="Purple Modern Profile Persona Document(3)" src="https://github.com/user-attachments/assets/48eda007-c366-4b08-8b57-8672c9f71fe5" />
 
-<img height="600" alt="Purple Modern Profile Persona Document(1)" src="https://github.com/user-attachments/assets/82560dd1-daaf-49ef-b1a9-72071cfffcf1" />
-
-<img height="600" alt="Purple Modern Profile Persona Document(3)" src="https://github.com/user-attachments/assets/326ac70a-ec3c-4b18-b19f-f6c21631a141" />
-
-<img height="600" alt="Purple Modern Profile Persona Document(2)" src="https://github.com/user-attachments/assets/221515e1-2ff2-4f5e-a045-85602513c727" />
 
