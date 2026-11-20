@@ -19,7 +19,7 @@ Nesta etapa, são apresentados apenas os objetivos dos usuários, sem detalhar o
 
 ### Representação gráfica
 
-![Mapa de Objetivos - Professor(a)](../imagens/mapa-professor.png)
+<img height="900" alt="WhatsApp Image 2026-11-19 at 23 18 46" src="https://github.com/user-attachments/assets/971af6d0-3ef2-40f8-9ce8-1dfe518146f8" />
 
 ---
 
@@ -31,7 +31,8 @@ Nesta etapa, são apresentados apenas os objetivos dos usuários, sem detalhar o
 
 ### Representação gráfica
 
-![Mapa de Objetivos - Técnico(a) de Laboratório](../imagens/mapa-tecnico.png)
+<img height="900" alt="WhatsApp Image 2026-11-19 at 23 18 46 (1)" src="https://github.com/user-attachments/assets/da14d269-475d-4872-a858-55b8f1fad298" />
+
 
 ---
 
