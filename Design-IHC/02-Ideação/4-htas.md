@@ -18,7 +18,7 @@ Os HTAs detalham **como** cada persona realiza os objetivos definidos no [Mapa d
 
 | HTA | Grupo do mapa | Objetivos cobertos | Persona principal |
 |---|---|---|---|
-| 1 – Solicitar materiais e equipamentos | Solicitação de materiais | Solicitar materiais; Planejar conforme a data da aula; Considerar o prazo de 48 horas | Lucas (também Camila) |
+| 1 – Solicitar materiais e labortório desejado | Solicitação de materiais e laboratório desejado | Solicitar materiais e laboratório; Planejar conforme a data da aula; Considerar o prazo de 48 horas | Lucas (também Camila) |
 | 2 – Acompanhar o andamento de um pedido | Acompanhamento de pedidos | Acompanhar o andamento; Consultar confirmações; Receber lembretes e notificações | Lucas (também Camila) |
 | 3 – Consultar materiais e equipamentos disponíveis | Consulta de materiais | Consultar materiais e equipamentos disponíveis | Camila (também Lucas e Elisângela) |
 | 4 – Ajustar a apresentação para facilitar a leitura | Acessibilidade e autonomia | Ampliar textos; Ajustar contraste e legibilidade; Navegar pelo teclado | Camila |
