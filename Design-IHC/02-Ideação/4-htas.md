@@ -30,7 +30,8 @@ Os HTAs detalham **como** cada persona realiza os objetivos definidos no [Mapa d
 
 ## 3. HTA 1 – Solicitar materiais e equipamentos
 
-<img height="450" alt="hta-1-solicitar-materiais" src="https://github.com/user-attachments/assets/6a7aa210-5162-4bc0-922e-0271fb30bb6f" />
+<img  height="797" alt="HTA 1 — Solicitação de materiais e laboratório" src="https://github.com/user-attachments/assets/88da1fd4-b1b1-44cb-9350-49ea1bb8865c" />
+
 
 **Propósito:** permitir que o professor solicite os materiais e equipamentos de que precisa para uma aula prática, informando a data da aula e respeitando o prazo mínimo de 48 horas.
 
