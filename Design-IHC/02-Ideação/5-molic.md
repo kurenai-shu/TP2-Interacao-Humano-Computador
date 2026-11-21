@@ -1,7 +1,8 @@
 
 # MOLIC
----
+
 Abaixo encontra-se os diagramas molic baseados nos htas
+
 <img  height="450" alt="Imagem do ChatGPT 20 de nov  de 2026, 18_43_01-1" src="https://github.com/user-attachments/assets/35a0503f-09c2-4ca3-a1b7-389b081acd55" />
 <img  height="450" alt="Imagem do ChatGPT 20 de nov  de 2026, 18_43_01-2" src="https://github.com/user-attachments/assets/636246bc-ebaa-4f54-a801-704a4ffa318a" />
 <img  height="450" alt="Imagem do ChatGPT 20 de nov  de 2026, 18_43_03-3" src="https://github.com/user-attachments/assets/b7fc49cf-7798-471d-8a47-823e85badd5a" />
@@ -11,7 +12,7 @@ Abaixo encontra-se os diagramas molic baseados nos htas
 <img  height="450" alt="Imagem do ChatGPT 20 de nov  de 2026, 18_43_06-7" src="https://github.com/user-attachments/assets/94ef8eea-75d8-473d-b476-10d5b3a7420f" />
 
 # EXPLICADO POR PARTES
----
+
 Abaixo encontra-se os mesmo diagrams, explicados por partes, para melhor compreensão do mesmo
 
 <img  height="450" alt="imagem 1" src="https://github.com/user-attachments/assets/be52d424-2aff-494b-a256-75e2ee506eaf" />
