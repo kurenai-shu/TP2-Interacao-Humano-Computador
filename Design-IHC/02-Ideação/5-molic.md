@@ -3,7 +3,7 @@
 
 Abaixo encontra-se os diagramas molic baseados nos htas
 
-<img  height="450" alt="Imagem do ChatGPT 20 de nov  de 2026, 18_43_01-1" src="https://github.com/user-attachments/assets/35a0503f-09c2-4ca3-a1b7-389b081acd55" />
+<img height="450" alt="Fluxo MOLIC_ solicitação de materiais e laboratório" src="https://github.com/user-attachments/assets/fe067178-7dad-47a2-b72d-eb0da443f5a1" />
 <img  height="450" alt="Imagem do ChatGPT 20 de nov  de 2026, 18_43_01-2" src="https://github.com/user-attachments/assets/636246bc-ebaa-4f54-a801-704a4ffa318a" />
 <img  height="450" alt="Imagem do ChatGPT 20 de nov  de 2026, 18_43_03-3" src="https://github.com/user-attachments/assets/b7fc49cf-7798-471d-8a47-823e85badd5a" />
 <img  height="450" alt="Imagem do ChatGPT 20 de nov  de 2026, 18_43_03-4" src="https://github.com/user-attachments/assets/d1337101-93a1-4701-8587-d0729981663c" />
