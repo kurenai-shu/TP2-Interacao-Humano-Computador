@@ -30,7 +30,7 @@ Os HTAs detalham **como** cada persona realiza os objetivos definidos no [Mapa d
 
 ## 3. HTA 1 – Solicitar materiais e equipamentos
 
-<img height="4000" alt="hta-1-solicitar-materiais" src="https://github.com/user-attachments/assets/6a7aa210-5162-4bc0-922e-0271fb30bb6f" />
+<img height="450" alt="hta-1-solicitar-materiais" src="https://github.com/user-attachments/assets/6a7aa210-5162-4bc0-922e-0271fb30bb6f" />
 
 **Propósito:** permitir que o professor solicite os materiais e equipamentos de que precisa para uma aula prática, informando a data da aula e respeitando o prazo mínimo de 48 horas.
 
@@ -51,7 +51,7 @@ Os HTAs detalham **como** cada persona realiza os objetivos definidos no [Mapa d
 
 ## 4. HTA 2 – Acompanhar o andamento de um pedido
 
-<img width="4560" height="1668" alt="hta-2-acompanhar-pedido" src="https://github.com/user-attachments/assets/29bc9668-271c-484d-8f3a-1a92c299d907" />
+<img w height="450" alt="hta-2-acompanhar-pedido" src="https://github.com/user-attachments/assets/29bc9668-271c-484d-8f3a-1a92c299d907" />
 
 
 **Propósito:** permitir que o professor veja a situação de seus pedidos sem precisar perguntar constantemente à equipe do laboratório.
@@ -72,7 +72,7 @@ Os HTAs detalham **como** cada persona realiza os objetivos definidos no [Mapa d
 
 ## 5. HTA 3 – Consultar materiais e equipamentos disponíveis
 
-<img width="4560" height="1668" alt="hta-3-consultar-materiais" src="https://github.com/user-attachments/assets/e9c2cd09-4a8b-4e7f-a165-fababf5b1937" />
+<img  height="450" alt="hta-3-consultar-materiais" src="https://github.com/user-attachments/assets/e9c2cd09-4a8b-4e7f-a165-fababf5b1937" />
 
 
 **Propósito:** permitir que qualquer usuário saiba quais materiais e equipamentos estão disponíveis antes de planejar ou solicitar.
@@ -93,7 +93,7 @@ Os HTAs detalham **como** cada persona realiza os objetivos definidos no [Mapa d
 
 ## 6. HTA 4 – Ajustar a apresentação para facilitar a leitura
 
-<img width="4560" height="1864" alt="hta-4-ajustar-apresentacao" src="https://github.com/user-attachments/assets/760066d9-307b-4b9f-bc4d-927318488694" />
+<img height="450" alt="hta-4-ajustar-apresentacao" src="https://github.com/user-attachments/assets/760066d9-307b-4b9f-bc4d-927318488694" />
 
 
 **Propósito:** permitir que a Camila, que tem baixa visão, adapte o sistema às suas necessidades (tamanho do texto e contraste) sem prejudicar a organização das informações.
@@ -114,7 +114,7 @@ Os HTAs detalham **como** cada persona realiza os objetivos definidos no [Mapa d
 
 ## 7. HTA 5 – Gerenciar solicitações recebidas
 
-<img width="4560" height="1668" alt="hta-5-gerenciar-solicitacoes" src="https://github.com/user-attachments/assets/4cb55af1-b328-44e8-b7cc-b8a89e809391" />
+<img height="450" alt="hta-5-gerenciar-solicitacoes" src="https://github.com/user-attachments/assets/4cb55af1-b328-44e8-b7cc-b8a89e809391" />
 
 
 **Propósito:** permitir que a técnica acompanhe, analise e atualize as solicitações dos professores em um único sistema, no lugar de planilhas, e-mail e WhatsApp.
@@ -135,7 +135,7 @@ Os HTAs detalham **como** cada persona realiza os objetivos definidos no [Mapa d
 
 ## 8. HTA 6 – Identificar e solicitar reposição de materiais
 
-<img width="4560" height="1668" alt="hta-6-solicitar-reposicao" src="https://github.com/user-attachments/assets/4b201238-fd38-4115-893e-41d5237dd972" />
+<img  height="450" alt="hta-6-solicitar-reposicao" src="https://github.com/user-attachments/assets/4b201238-fd38-4115-893e-41d5237dd972" />
 
 
 **Propósito:** permitir que a técnica identifique materiais em falta ou com pouca quantidade e peça a reposição ao almoxarifado.
@@ -156,7 +156,7 @@ Os HTAs detalham **como** cada persona realiza os objetivos definidos no [Mapa d
 
 ## 9. HTA 7 – Consultar informações dos responsáveis
 
-<img width="4560" height="1668" alt="hta-7-consultar-responsaveis" src="https://github.com/user-attachments/assets/32c7e390-1d6e-4d1b-b3a8-34078055f256" />
+<img height="450" alt="hta-7-consultar-responsaveis" src="https://github.com/user-attachments/assets/32c7e390-1d6e-4d1b-b3a8-34078055f256" />
 
 
 **Propósito:** permitir que o usuário localize professores e regentes responsáveis pelo laboratório e obtenha seus dados de contato e responsabilidades.
