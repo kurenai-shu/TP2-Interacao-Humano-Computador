@@ -14,10 +14,9 @@ Abaixo encontra-se os diagramas molic baseados nos htas
 # EXPLICADO POR PARTES
 
 Abaixo encontra-se os mesmo diagrams, explicados por partes, para melhor compreensão do mesmo
-
-<img  height="450" alt="imagem 1" src="https://github.com/user-attachments/assets/be52d424-2aff-494b-a256-75e2ee506eaf" />
-<img  height="450" alt="imagem 2" src="https://github.com/user-attachments/assets/9226518a-230b-4a66-a8ca-77f99f5925a3" />
-<img  height="450" alt="imagem 3" src="https://github.com/user-attachments/assets/b4342453-a2a1-46e1-8ea2-79c0702da362" />
+<img  height="450" alt="MOLIC_1_trecho_1_explicado" src="https://github.com/user-attachments/assets/e01ffa77-bde8-4b05-b369-8addfd5f01a4" />
+<img  height="450" alt="MOLIC_1_trecho_2_explicado" src="https://github.com/user-attachments/assets/3203c2e2-616e-4d29-9068-c7b50727bce4" />
+<img  height="450" alt="MOLIC_1_trecho_3_explicado" src="https://github.com/user-attachments/assets/fc82d009-c29f-40be-9d43-1b34ec052e02" />
 <img  height="450" alt="imagem 4" src="https://github.com/user-attachments/assets/b19734d6-0bb0-4db2-bb67-84b8e22e05e4" />
 <img  height="450" alt="image 5" src="https://github.com/user-attachments/assets/01a63de0-deb8-4051-ac7d-5ec826a8be0e" />
 <img  height="450" alt="imagem 6" src="https://github.com/user-attachments/assets/18b1792e-3909-4c80-8f0b-c4b60033bd51" />
