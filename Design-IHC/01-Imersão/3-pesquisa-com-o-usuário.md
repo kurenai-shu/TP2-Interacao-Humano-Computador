@@ -35,14 +35,31 @@ A pesquisa utiliza formulários eletrônicos do Google Forms, com participação
 | Situação da coleta | concluído |
 
 ### 4.1. Roteiro utilizado
-
-> Transcrever as perguntas exatamente como aparecem no Google Forms, incluindo as alternativas das questões fechadas.
-
-1. [Pergunta 1 e alternativas]
-2. [Pergunta 2 e alternativas]
-3. [Continuar até a última pergunta]
+1. Como você classificaria sua experiência com tecnologia?
+2. Como você costuma solicitar equipamentos ou materiais para suas aulas práticas?
+3. Com que frequência você precisa solicitar equipamentos para suas aulas?
+4. Qual é a sua maior dificuldade ao solicitar equipamentos?
+5. Como você verifica a disponibilidade dos equipamentos antes de solicitá-los?
+6. Você já enfrentou problemas por falta de equipamentos disponíveis?
+7. Você considera que um aplicativo para solicitar equipamentos facilitaria seu trabalho?
+8. Qual funcionalidade você considera mais importante em um aplicativo de solicitação de equipamentos?
+9. Com quanto tempo de antecedência você costuma solicitar equipamentos para suas aulas?
+10. Qual seria sua preferência para realizar solicitações de equipamentos?
 
 ### 4.2. Síntese das informações obtidas
+<img height="400" alt="image" src="https://github.com/user-attachments/assets/49ecb50f-74b0-4576-99c4-322f5e8fb2ff" />
+<img height="400" alt="image" src="https://github.com/user-attachments/assets/487e09e8-42d0-449b-9d18-b322529f2d4c" />
+<img height="400" alt="image" src="https://github.com/user-attachments/assets/43deacbe-805e-4776-9d50-3ffcc3c881cc" />
+<img height="400" alt="image" src="https://github.com/user-attachments/assets/c4f9a5a2-6b9d-41c3-9d30-9381ec1b3e22" />
+<img height="400" alt="image" src="https://github.com/user-attachments/assets/37bc65d4-f906-4af7-a448-f23efd2efed5" />
+<img height="400" alt="image" src="https://github.com/user-attachments/assets/f00d9d8f-e3bd-48a5-816f-4cde9ae4eb4c" />
+<img height="400" alt="image" src="https://github.com/user-attachments/assets/069075b4-a4ac-4b94-ac74-1322c02325d8" />
+<img height="400" alt="image" src="https://github.com/user-attachments/assets/b8e23140-0076-4450-b136-09edb7be7653" />
+<img height="400" alt="image" src="https://github.com/user-attachments/assets/037a72b5-3b29-4af6-bb76-1c633016528b" />
+<img height="400" alt="image" src="https://github.com/user-attachments/assets/5cec0b58-9c2f-410c-a975-5e47b80931a9" />
+
+
+
 
 **Preencher somente se houver respostas:**
 
