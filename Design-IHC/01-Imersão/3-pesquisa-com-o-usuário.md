@@ -1,15 +1,7 @@
 [pesquisa_complementar_ihc.md](https://github.com/user-attachments/files/35297639/pesquisa_complementar_ihc.md)
 
-# Pesquisa complementar com usuários
-
-**Disciplina:** Interação Humano-Computador (IHC)  
-**Instituição:** Universidade Federal do Amazonas (UFAM)  
-**Projeto:** Proposta de solução para organização e solicitação de recursos do Laboratório de Biologia  
-**Data da documentação:** 23 de novembro de 2026  
-**Situação:** Documentação preliminar, pendente de consulta às perguntas e às respostas dos formulários.
-
+# Pesquisa com usuários
 ## 1. Introdução
-
 Após a elaboração da Matriz CSD (Certezas, Suposições e Dúvidas), a pesquisa complementar busca conhecer a perspectiva dos usuários sobre a rotina do laboratório e as necessidades relacionadas à organização e à solicitação de recursos. A investigação complementa as informações obtidas com o cliente e contribui para avaliar suposições e dúvidas levantadas anteriormente.
 
 Os dados coletados deverão apoiar a construção de personas por meio da técnica PATHY, sem antecipar características ou necessidades que ainda não tenham sido confirmadas pelos participantes.
@@ -26,9 +18,8 @@ Os dados coletados deverão apoiar a construção de personas por meio da técni
 A pesquisa utiliza formulários eletrônicos do Google Forms, com participação de pessoas que representam potenciais usuários da solução. A análise das respostas deverá ser apresentada de forma agregada, sem nomes, e-mails ou outros dados que permitam identificar os participantes.
 
 **Instrumentos:** dois formulários eletrônicos, relacionados abaixo.  
-**Período da aplicação:** [informar datas].  
-**Públicos efetivamente alcançados:** [confirmar com os formulários].  
-**Quantidade de respostas:** [verificar separadamente em cada formulário].
+**Públicos efetivamente alcançados:** Professores.  
+**Quantidade de respostas:** 2 respostas.
 
 ## 4. Formulário 1
 
@@ -36,12 +27,12 @@ A pesquisa utiliza formulários eletrônicos do Google Forms, com participação
 
 | Informação | Registro |
 |---|---|
-| Título exato | [consultar formulário] |
-| Público-alvo | [consultar formulário] |
-| Objetivo específico | [informar de acordo com o questionário] |
-| Número de perguntas | [consultar formulário] |
-| Número de respostas | [consultar aba Respostas] |
-| Situação da coleta | [em andamento / concluída / sem respostas] |
+| Título exato | Questionário Complementar para a realização do Trabalho Prático 2: TP2 |
+| Público-alvo | Professores |
+| Objetivo específico | saber como os professores se sentem em relação ao pedido de materiais para o laboratório |
+| Número de perguntas | 10 |
+| Número de respostas | 2 |
+| Situação da coleta | concluído |
 
 ### 4.1. Roteiro utilizado
 
