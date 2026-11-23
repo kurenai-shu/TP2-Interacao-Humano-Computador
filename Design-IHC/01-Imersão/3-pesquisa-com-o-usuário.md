@@ -1,5 +1,3 @@
-[pesquisa_complementar_ihc.md](https://github.com/user-attachments/files/35297639/pesquisa_complementar_ihc.md)
-
 # Pesquisa com usuários
 ## 1. Introdução
 Após a elaboração da Matriz CSD (Certezas, Suposições e Dúvidas), a pesquisa complementar busca conhecer a perspectiva dos usuários sobre a rotina do laboratório e as necessidades relacionadas à organização e à solicitação de recursos. A investigação complementa as informações obtidas com o cliente e contribui para avaliar suposições e dúvidas levantadas anteriormente.
