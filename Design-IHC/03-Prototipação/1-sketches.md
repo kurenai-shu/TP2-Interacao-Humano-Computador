@@ -77,10 +77,10 @@ não indicam que as telas já possuam funcionalidades implementadas.
                           preferir**.             
   -----------------------------------------------------------------------
 
-<img width="393" height="736" alt="image" src="https://github.com/user-attachments/assets/be02009f-079b-4a17-851a-3ec6e01404d2" />
+<img height="730" alt="image" src="https://github.com/user-attachments/assets/be02009f-079b-4a17-851a-3ec6e01404d2" />
 
 
-<img width="465" height="905" alt="{E7773382-7509-420B-A3D9-B572C7556BC4}" src="https://github.com/user-attachments/assets/170b5e84-eb8f-457d-b0d0-e4cc02e82e71" />
+<img height="730" alt="{E7773382-7509-420B-A3D9-B572C7556BC4}" src="https://github.com/user-attachments/assets/170b5e84-eb8f-457d-b0d0-e4cc02e82e71" />
 
 ### 3.2 Hubs e menus de navegação
 
