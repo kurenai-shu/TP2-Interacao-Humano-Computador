@@ -31,7 +31,8 @@ diferentes possibilidades de organização da interface.
 
 ## 2. Visão geral do fluxo
 
-![Visão geral do fluxo das telas](imagens/fluxo-geral.png)
+<img width="2840" height="2620" alt="Lab Manager Sketch drawio (3)" src="https://github.com/user-attachments/assets/569d31fa-3625-4146-a704-40463cf3e177" />
+
 
 O fluxo começa na tela de boas-vindas, pela qual o usuário acessa a tela
 de login. Após a autenticação, o sistema direciona o usuário ao ambiente
@@ -76,9 +77,10 @@ não indicam que as telas já possuam funcionalidades implementadas.
                           preferir**.             
   -----------------------------------------------------------------------
 
-![Boas-vindas](imagens/sketch-01-boas-vindas.png)
+<img width="393" height="736" alt="image" src="https://github.com/user-attachments/assets/be02009f-079b-4a17-851a-3ec6e01404d2" />
 
-![Login](imagens/sketch-02-login.png)
+
+<img width="465" height="905" alt="{E7773382-7509-420B-A3D9-B572C7556BC4}" src="https://github.com/user-attachments/assets/170b5e84-eb8f-457d-b0d0-e4cc02e82e71" />
 
 ### 3.2 Hubs e menus de navegação
 
