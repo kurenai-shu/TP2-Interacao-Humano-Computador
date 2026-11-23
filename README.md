@@ -1,6 +1,12 @@
 # TP2 - Interação-Humano-Computador
-  ### Integrantes:
-  Davi Marques, Kairlly Magalhães,Bruno Gomes, Sergio Roberto, Emanuel Queiroz e Guilherme Alencar
+ ### Integrantes:
+
+- Bruno Gomes
+- Davi Marques
+- Emanuel Queiroz
+- Guilherme Alencar
+- Kairlly Magalhães
+- Sergio Roberto
 
 
 # Sumário
