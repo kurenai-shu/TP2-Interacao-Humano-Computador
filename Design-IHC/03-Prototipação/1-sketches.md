@@ -75,6 +75,9 @@ As setas do diagrama representam a sequência prevista de navegação. Elas não
 
 ![Agendar laboratório](imagens/sketch-08-agendar-laboratorio.png)
 
+<img height="730" alt="WhatsApp Image 2026-11-23 at 6 50 25 PM" src="https://github.com/user-attachments/assets/aceb9d0b-5f0e-41b2-bd1b-31ece52bbab9" />
+
+
 ![Acompanhar agendamento (professor)](imagens/sketch-09-acompanhar-professor.png)
 
 ![Histórico de requerimentos](imagens/sketch-10-historico.png)
