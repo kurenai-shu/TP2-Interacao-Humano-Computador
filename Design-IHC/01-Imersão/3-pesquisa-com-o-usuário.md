@@ -84,72 +84,31 @@ A pesquisa utiliza formulários eletrônicos do Google Forms, com participação
 
 | Informação | Registro |
 |---|---|
-| Título exato | [consultar formulário] |
-| Público-alvo | [consultar formulário] |
-| Objetivo específico | [informar de acordo com o questionário] |
-| Número de perguntas | [consultar formulário] |
-| Número de respostas | [consultar aba Respostas] |
-| Situação da coleta | [em andamento / concluída / sem respostas] |
+| Título exato | Pesquisa Complementar – Projeto IHC (UFAM) |
+| Público-alvo | Técnicos de laboratório |
+| Objetivo específico | saber como é a rotina cuidando da reposição de materiais nos laboratórios |
+| Número de perguntas | 15 |
+| Número de respostas | 0 |
+| Situação da coleta | sem respostas |
 
 ### 5.1. Roteiro utilizado
 
 > Transcrever as perguntas exatamente como aparecem no Google Forms, incluindo as alternativas das questões fechadas.
 
-1. [Pergunta 1 e alternativas]
-2. [Pergunta 2 e alternativas]
-3. [Continuar até a última pergunta]
+1. Quais dispositivos você mais usa no dia a dia de trabalho?
+2. Você possui alguma necessidade de acessibilidade (visual, auditiva, motora, cognitiva ou outra) que deveria ser considerada em um sistema? Se sim, explique abaixo.
+3. Os materiais ficam no almoxarifado, que entrega ao laboratório a quantidade solicitada para todo o semestre. Quando falta algum item, o laboratório precisa avisar o almoxarifado por e-mail?
+4. "Os pedidos de material para as aulas precisam ser feitos com 48 horas de antecedência."
+5. "Há falhas nos pedidos de material para os laboratórios, e a falta de antecedência dos professores ao fazer os pedidos acaba afetando o trabalho do laboratório."
+6. "Existe escassez de itens de qualidade no laboratório."
+7. "Existe dificuldade em levantar informações sobre os regentes de laboratório."
+8. "Um banco de dados para organizar os pedidos de materiais feitos pelos professores tornaria o acesso mais fácil e reduziria as falhas."
+9. Existe alguma tarefa que poderia ser realizada de maneira mais simples, rápida ou organizada?
+10. Quais ferramentas, sistemas, programas ou métodos você usa hoje para fazer pedidos, se organizar e se comunicar sobre o laboratório (e-mail, WhatsApp, planilhas, papel, outros)?
+11. Se pudesse melhorar apenas um aspecto da rotina do laboratório, qual seria sua prioridade?
+12. Se você pudesse usar uma ferramenta tecnológica para facilitar seu trabalho, quais funcionalidades seriam mais importantes? Marque quantas quiser.
+13. Você usaria um aplicativo ou sistema para fazer pedidos e acompanhar informações do laboratório? Se quise, explique o motivo.
+14. Existe alguma regra, exigência ou limitação (institucional, de segurança, de acesso a dados ou de equipamentos, como o descarte seguro de resíduos) que um sistema como esse deveria respeitar?
+15. Existe alguma outra dificuldade, necessidade ou sugestão relacionada à sua rotina no laboratório que não abordamos e que você considera importante mencionar? 
 
-### 5.2. Síntese das informações obtidas
-
-**Preencher somente se houver respostas:**
-
-- **Perfil dos participantes:** [síntese agregada]
-- **Principais dificuldades relatadas:** [resultados]
-- **Necessidades identificadas:** [resultados]
-- **Preferências ou expectativas:** [resultados]
-- **Questões de acessibilidade:** [quando investigadas e respondidas]
-- **Suposições da Matriz CSD apoiadas, questionadas ou ainda não resolvidas:** [análise baseada nos dados]
-
-**Caso não existam respostas:** registrar “Até a data desta documentação, o formulário não possui respostas disponíveis para análise. Portanto, ainda não é possível produzir uma síntese dos resultados.”
-
-### 5.3. Evidências
-
-- [Inserir captura das perguntas do formulário, sem dados pessoais.]
-- [Inserir captura do resumo agregado de respostas, caso existam.]
-- [Registrar data e contexto da aplicação, preservando os participantes.]
-
-## 6. Análise integrada da pesquisa
-
-Esta seção deverá ser preenchida após a consulta aos dados disponíveis.
-
-| Dimensão de análise | Evidências observadas | Implicações para o projeto |
-|---|---|---|
-| Contexto de uso | [dados] | [interpretação] |
-| Atividades e objetivos | [dados] | [interpretação] |
-| Dificuldades e limitações | [dados] | [interpretação] |
-| Experiência com tecnologia | [dados] | [interpretação] |
-| Necessidades de acessibilidade | [dados, quando houver] | [interpretação] |
-
-### 6.1. Relação com a Matriz CSD
-
-| Suposição ou dúvida da Matriz CSD | Evidência da pesquisa | Situação após a pesquisa |
-|---|---|---|
-| [transcrever item da matriz] | [resposta ou resultado relevante] | [confirmada / contrariada / inconclusiva] |
-
-### 6.2. Contribuição para a PATHY
-
-Os resultados dos questionários, quando disponíveis, servirão como referência para descrever perfis de usuários com base em observações reais, evitando atribuir a eles comportamentos ou características presumidas. Se a pesquisa não trouxer evidências suficientes sobre uma dimensão, essa lacuna deverá ser explicitada.
-
-## 7. Registro e proteção dos participantes
-
-As evidências da pesquisa devem demonstrar sua realização sem divulgar a identidade dos participantes. Recomenda-se utilizar capturas dos formulários e gráficos agregados da aba **Respostas**, ocultando nomes, e-mails, identificadores e respostas abertas que possam revelar informações pessoais.
-
-## 8. Limitações atuais
-
-No momento da redação inicial, não foi possível acessar o conteúdo interno de nenhum dos dois formulários por meio dos links fornecidos. Assim, os títulos, perguntas, alternativas, quantidade de participantes e resultados permanecem pendentes de verificação. Sabe-se, por informação da equipe, que um dos formulários ainda não recebeu respostas, mas não foi possível determinar qual deles. Não foram criadas respostas fictícias.
-
-## 9. Referências e instrumentos
-
-- [Formulário 1 (Google Forms)](https://docs.google.com/forms/d/1QjrDSytX1rTfPeDWtYj4ApISFwDp4JKD9BG0BDpKzK4/edit)
-- [Formulário 2 (Google Forms)](https://docs.google.com/forms/d/1zsv8kYxoaNSg2VJ5jL_2l1f_sqOaQyp5S5Kzulas5sQ/edit)
-- [Modelo de entrevista do Design Thinking Bridge (UFSC)](https://bthinking.bridge.ufsc.tech/pt/methods/interview)
+## **NÃO HOUVE RESPOSTAS PARA O SEGUNDO FORMULÁRIO**
