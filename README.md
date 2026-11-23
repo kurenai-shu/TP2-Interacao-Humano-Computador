@@ -1,5 +1,5 @@
 # TP2 - Interação-Humano-Computador
-  ### integrantes:
+  ### Integrantes:
   Davi Marques, Kairlly Magalhães,Bruno Gomes, Sergio Roberto, Emanuel Queiroz e Guilherme Alencar
 
 
@@ -26,6 +26,4 @@
 📁[1-sketches](Design-IHC/03-Prototipação/1-sketches.md)
 
 # Termo De Uso de IA
-  a equipe utilizou de Inteligência Artificial (IA) para a a organização dos questionários aplicados, de acordo com a área do 
-  do entrevistado/usuário para melhor otimização no trabalho, criação das personas, revisão da metamensagem, criaç~´ao das htas e dos diagramas da molic, junto de várias revisões feitas pelos integrante sda equipe para
-  garantir que nada esteja exagerado ou fora do padrão estabelecido pela equipe
+  A equipe utilizou de Inteligência Artificial (IA) para a a organização dos questionários aplicados, de acordo com a área do entrevistado/usuário para melhor otimização no trabalho, criação das personas, revisão da metamensagem, criação das htas e dos diagramas da molic, junto de várias revisões feitas pelos integrantes da equipe para garantir que nada esteja fora do padrão estabelecido pela professor.
