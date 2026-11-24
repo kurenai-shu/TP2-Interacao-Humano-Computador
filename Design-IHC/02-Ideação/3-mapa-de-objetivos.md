@@ -1,5 +1,19 @@
 # Mapa de Objetivos
 
+<a id="sumario"></a>
+
+## Sumário
+
+- [1. Introdução](#secao-1)
+- [2. Mapa de Objetivos — Persona 1: Camila Nascimento](#secao-2)
+- [3. Mapa de Objetivos — Persona 2: Lucas Almeida](#secao-3)
+- [4. Mapa de Objetivos — Persona 3: Elisângela Costa](#secao-4)
+- [5. Considerações finais](#secao-5)
+
+---
+
+<a id="secao-1"></a>
+
 ## 1. Introdução
 
 O Mapa de Objetivos tem como finalidade representar visualmente os principais objetivos que cada persona deseja alcançar ao interagir com o sistema de gerenciamento de materiais do Laboratório de Biologia da UFAM.
@@ -10,7 +24,11 @@ Nesta etapa, são apresentados apenas os objetivos dos usuários, sem detalhar o
 
 Objetivos compartilhados entre personas são identificados na legenda de cada mapa: as caixas brancas representam objetivos compartilhados e as caixas amarelas com ★ representam objetivos específicos da persona.
 
+[Voltar ao sumário](#sumario)
+
 ---
+
+<a id="secao-2"></a>
 
 ## 2. Mapa de Objetivos — Persona 1: Camila Nascimento
 
@@ -20,10 +38,17 @@ Objetivos compartilhados entre personas são identificados na legenda de cada ma
 
 ### Representação gráfica
 
-<img width="3200" height="2280" alt="mapa-de-objetivos-persona1-camila" src="https://github.com/user-attachments/assets/30de2d6a-9c9d-4210-8621-fb7350ac32fb" />
+<p align="center">
+  <img width="100%" alt="mapa-de-objetivos-persona1-camila" src="https://github.com/user-attachments/assets/30de2d6a-9c9d-4210-8621-fb7350ac32fb" />
+</p>
 
+<p align="center"><em>Figura 1 – Mapa de objetivos: Camila Nascimento.</em></p>
+
+[Voltar ao sumário](#sumario)
 
 ---
+
+<a id="secao-3"></a>
 
 ## 3. Mapa de Objetivos — Persona 2: Lucas Almeida
 
@@ -33,10 +58,17 @@ Objetivos compartilhados entre personas são identificados na legenda de cada ma
 
 ### Representação gráfica
 
-<img width="3200" height="1904" alt="mapa-de-objetivos-persona2-lucas" src="https://github.com/user-attachments/assets/0e8e92fc-9a1d-412c-8f47-729f0b645622" />
+<p align="center">
+  <img width="100%" alt="mapa-de-objetivos-persona2-lucas" src="https://github.com/user-attachments/assets/0e8e92fc-9a1d-412c-8f47-729f0b645622" />
+</p>
 
+<p align="center"><em>Figura 2 – Mapa de objetivos: Lucas Almeida.</em></p>
+
+[Voltar ao sumário](#sumario)
 
 ---
+
+<a id="secao-4"></a>
 
 ## 4. Mapa de Objetivos — Persona 3: Elisângela Costa
 
@@ -46,10 +78,17 @@ Objetivos compartilhados entre personas são identificados na legenda de cada ma
 
 ### Representação gráfica
 
-<img width="3200" height="1904" alt="mapa-de-objetivos-persona3-elisangela" src="https://github.com/user-attachments/assets/6bd79287-97a9-4ff5-a055-43e0d176ec9b" />
+<p align="center">
+  <img width="100%" alt="mapa-de-objetivos-persona3-elisangela" src="https://github.com/user-attachments/assets/6bd79287-97a9-4ff5-a055-43e0d176ec9b" />
+</p>
 
+<p align="center"><em>Figura 3 – Mapa de objetivos: Elisângela Costa.</em></p>
+
+[Voltar ao sumário](#sumario)
 
 ---
+
+<a id="secao-5"></a>
 
 ## 5. Considerações finais
 
@@ -58,3 +97,6 @@ Os mapas de objetivos representam as principais necessidades e expectativas das 
 A partir deles, é possível compreender os diferentes objetivos dos professores e da técnica de laboratório, considerando suas responsabilidades e necessidades específicas. Observa-se também que os professores e a técnica compartilham o ciclo de consultar, solicitar e acompanhar pedidos, enquanto os objetivos de acessibilidade da Camila devem orientar o sistema como um todo.
 
 Esses mapas servirão como base para a próxima etapa do projeto, a elaboração dos HTAs (Hierarchical Task Analysis).
+
+[Voltar ao sumário](#sumario)
+o.md…]()
