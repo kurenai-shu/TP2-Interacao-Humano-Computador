@@ -1,4 +1,3 @@
-[4-htas-organizado.md](https://github.com/user-attachments/files/35308026/4-htas-organizado.md)
 # HTAs (Hierarchical Task Analysis)
 
 <a name="sumario"></a>
