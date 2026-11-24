@@ -78,9 +78,14 @@ As setas do diagrama representam a sequência prevista de navegação. Elas não
 | :--- | :--- | :--- |
 | **Configurações > Acessibilidade** | Disponibiliza o ajuste de zoom, inicialmente em **100%**, para aumentar ou diminuir o texto, e a opção **Texto em alto contraste**. | Relaciona-se ao HTA 4 e às necessidades de ampliar textos e ajustar contraste e legibilidade identificadas na persona com necessidade de acessibilidade. |
 
-![Configurações de acessibilidade](imagens/sketch-07-acessibilidade.png)
-
-<img width="831" height="1600" alt="WhatsApp Image 2026-11-23 at 6 50 25 PM (2)" src="https://github.com/user-attachments/assets/aaab482d-519e-4efc-bda8-442612e5c175" />
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/aaab482d-519e-4efc-bda8-442612e5c175" alt="Configurações de acessibilidade" width="280" /><br>
+      <sub><b>Configurações de acessibilidade</b></sub>
+    </td>
+  </tr>
+</table>
 
 ### 3.4 Fluxo do professor
 
