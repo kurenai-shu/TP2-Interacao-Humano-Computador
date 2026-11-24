@@ -160,7 +160,7 @@ O enunciado do TP2 solicita a elaboração de versões alternativas para algumas
 <table>
   <tr>
     <td align="center">
-      <img height="280" alt="WhatsApp Image 2026-11-23 at 6 50 30 PM" src="https://github.com/user-attachments/assets/55b89112-5ee6-4f27-a1ab-553df54981c4" />
+      <img width="280"  alt="WhatsApp Image 2026-11-23 at 6 50 30 PM" src="https://github.com/user-attachments/assets/55b89112-5ee6-4f27-a1ab-553df54981c4" />
       <sub><b>Agendar laboratório -- Tela A</b></sub>
     </td>
     <td align="center">
