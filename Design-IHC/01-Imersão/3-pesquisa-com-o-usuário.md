@@ -45,16 +45,31 @@ A pesquisa utiliza formulários eletrônicos do Google Forms, com participação
 10. Qual seria sua preferência para realizar solicitações de equipamentos?
 
 ### 4.2. Síntese das informações obtidas
-<img height="400" alt="image" src="https://github.com/user-attachments/assets/49ecb50f-74b0-4576-99c4-322f5e8fb2ff" />
-<img height="400" alt="image" src="https://github.com/user-attachments/assets/487e09e8-42d0-449b-9d18-b322529f2d4c" />
-<img height="400" alt="image" src="https://github.com/user-attachments/assets/43deacbe-805e-4776-9d50-3ffcc3c881cc" />
-<img height="400" alt="image" src="https://github.com/user-attachments/assets/c4f9a5a2-6b9d-41c3-9d30-9381ec1b3e22" />
-<img height="400" alt="image" src="https://github.com/user-attachments/assets/37bc65d4-f906-4af7-a448-f23efd2efed5" />
-<img height="400" alt="image" src="https://github.com/user-attachments/assets/f00d9d8f-e3bd-48a5-816f-4cde9ae4eb4c" />
-<img height="400" alt="image" src="https://github.com/user-attachments/assets/069075b4-a4ac-4b94-ac74-1322c02325d8" />
-<img height="400" alt="image" src="https://github.com/user-attachments/assets/b8e23140-0076-4450-b136-09edb7be7653" />
-<img height="400" alt="image" src="https://github.com/user-attachments/assets/037a72b5-3b29-4af6-bb76-1c633016528b" />
-<img height="400" alt="image" src="https://github.com/user-attachments/assets/5cec0b58-9c2f-410c-a975-5e47b80931a9" />
+## **Síntese dos resultados do questionário**
+
+O questionário contou com a participação de dois professores, que possuem conhecimentos básicos e intermediários em tecnologia. Ambos solicitam equipamentos frequentemente por e-mail e, apesar de não apresentarem dificuldades para realizar os pedidos, enfrentam ocasionalmente problemas com a falta de equipamentos disponíveis.
+
+Em relação ao desenvolvimento de um sistema, as funcionalidades consideradas mais importantes foram a consulta de disponibilidade dos equipamentos e o acompanhamento das solicitações. Além disso, os dois professores preferem um sistema que possa ser acessado tanto pelo celular quanto pelo computador.
+
+|## **Principais resultados**|
+|---|---|
+|Solicitam equipamentos por e-mail|**100%**|
+
+|Enfrentam ocasionalmente falta de equipamentos|**100%**|
+
+|Preferem acesso pelo celular e computador|**100%**|
+
+|Priorizam a consulta de disponibilidade|
+
+|**50%**|
+
+|Priorizam o acompanhamento dos pedidos|
+
+|**50%**|
+
+## **Conclusão**
+
+Os resultados indicam que um sistema simples e acessível poderá ajudar na organização dos pedidos, na consulta de equipamentos disponíveis e no planejamento das aulas práticas. Entretanto, como apenas dois professores responderam ao questionário, os resultados ainda são preliminares.
 
 
 
