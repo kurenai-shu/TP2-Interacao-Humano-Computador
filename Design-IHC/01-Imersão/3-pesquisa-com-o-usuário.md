@@ -13,7 +13,7 @@ Os dados coletados deverão apoiar a construção de personas por meio da técni
 
 ## 3. Metodologia
 
-A pesquisa utiliza formulários eletrônicos do Google Forms, com participação de pessoas que representam potenciais usuários da solução. A análise das respostas deverá ser apresentada de forma agregada, sem nomes, e-mails ou outros dados que permitam identificar os participantes.
+A pesquisa utiliza formulários eletrônicos do Google Forms, com participação de pessoas que representam potenciais usuários da solução.
 
 **Instrumentos:** dois formulários eletrônicos, relacionados abaixo.  
 **Público Alvo:** Professores e Técnicos de Laboratório.  
