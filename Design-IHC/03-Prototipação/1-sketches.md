@@ -157,9 +157,18 @@ O enunciado do TP2 solicita a elaboração de versões alternativas para algumas
 | **Vantagem** | Permite visualizar as informações em um único lugar e concluir o preenchimento sem avançar por várias telas. | Reduz a quantidade de informações apresentadas simultaneamente e inclui uma etapa de revisão antes do envio. |
 | **Risco** | Pode resultar em uma tela extensa, dificultando a leitura e o preenchimento, especialmente com ampliação de texto. | Exige mais etapas e navegação entre telas, podendo aumentar o tempo de conclusão. |
 
-![Agendar laboratório -- Tela A](imagens/sketch-08a-agendar-laboratorio.png)
-
-![Agendar laboratório -- Tela B](imagens/sketch-08b-agendar-laboratorio.png)
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/b8c20265-1fd9-4126-8c96-f7733618e690" alt="Agendar laboratório -- Tela A" width="280" /><br>
+      <sub><b>Agendar laboratório -- Tela A</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/7e3df4bf-5de1-422f-abbe-15a2be7f2eff" alt="Agendar laboratório -- Tela B" width="280" /><br>
+      <sub><b>Agendar laboratório -- Tela B</b></sub>
+    </td>
+  </tr>
+</table>
 
 > **Proposta de decisão:** escolher a **Tela B**. A divisão por etapas organiza o preenchimento e permite que o professor confira os dados antes de submeter o agendamento. Essa estrutura também reduz a sobrecarga visual em cada etapa, aspecto relevante para a acessibilidade. Para evitar que a navegação adicional prejudique a eficiência, recomenda-se indicar claramente a etapa atual e permitir retornar às etapas anteriores sem perder os dados preenchidos.
 
