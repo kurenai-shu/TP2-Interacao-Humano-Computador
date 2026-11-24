@@ -1,5 +1,17 @@
-
 # Briefing com o Cliente
+
+## Sumário
+
+- [1. Contexto](#contexto)
+- [2. Roteiro utilizado](#roteiro-utilizado)
+- [3. Respostas registradas](#respostas-registradas)
+- [4. Síntese das informações (itens exigidos no enunciado)](#sintese-das-informacoes)
+- [5. Registro da reunião](#registro-da-reuniao)
+
+---
+
+
+<a id="contexto"></a>
 
 ## 1. Contexto
 
@@ -10,43 +22,56 @@ O briefing foi realizado por videochamada (Google Meet) com uma técnica do Labo
 - **Participantes pela equipe:** Sérgio Roberto e Davi Marques
 - **Cliente:** técnica de laboratório do Laboratório de Biologia (identidade preservada)
 
+[↑ Voltar ao sumário](#sumário)
+
+---
+
+<a id="roteiro-utilizado"></a>
+
 ## 2. Roteiro utilizado
 
 Roteiro semiestruturado, organizado em blocos.
 
-**Bloco 1 – Identificação e contexto profissional**
+### Bloco 1 – Identificação e contexto profissional
+
 1. Há quanto tempo você trabalha como técnica de laboratório na UFAM?
 2. Em qual laboratório ou setor você trabalha atualmente?
 3. Quais são suas principais responsabilidades e atividades dentro do laboratório?
 
-**Bloco 2 – Rotina de trabalho e atividades**
+### Bloco 2 – Rotina de trabalho e atividades
 
 4. Como funciona sua rotina de trabalho durante um dia normal no laboratório?
 5. Quais atividades costumam ocupar mais tempo durante seu expediente?
 6. Como é realizado o controle de materiais, equipamentos, produtos e insumos utilizados no laboratório?
 
-**Bloco 3 – Dificuldades e problemas**
+### Bloco 3 – Dificuldades e problemas
 
 7. Quais são as maiores dificuldades que você enfrenta durante suas atividades profissionais?
 8. Existe alguma tarefa que poderia ser realizada de maneira mais simples, rápida ou organizada?
 9. Você enfrenta dificuldades para localizar informações, documentos, materiais ou registros necessários ao trabalho?
 10. Já aconteceu alguma situação em que a falta de organização ou de informação prejudicou alguma atividade do laboratório? Poderia dar um exemplo?
 
-**Bloco 4 – Usuários e comunicação**
+### Bloco 4 – Usuários e comunicação
 
 11. Além de você, quais pessoas utilizam ou dependem dos serviços do laboratório? Por exemplo, professores, pesquisadores, alunos ou outros técnicos.
 12. Como acontece a comunicação entre os profissionais que utilizam ou trabalham no laboratório?
 
-**Bloco 5 – Sistemas e tecnologias**
+### Bloco 5 – Sistemas e tecnologias
 
 13. Quais ferramentas, sistemas, programas ou métodos você utiliza atualmente para organizar e executar suas atividades?
 14. Existe alguma atividade que ainda é realizada manualmente, por meio de cadernos, planilhas ou documentos físicos, e que poderia ser informatizada?
 15. Se pudesse utilizar uma ferramenta tecnológica para facilitar seu trabalho, quais funcionalidades seriam mais importantes?
 
-**Bloco 6 – Prioridades e restrições**
+### Bloco 6 – Prioridades e restrições
 
 16. Se fosse possível melhorar apenas um aspecto da rotina do laboratório, qual seria sua prioridade?
 17. Existe alguma restrição ou exigência que precisaria ser considerada em uma possível solução tecnológica? Por exemplo, regras institucionais, segurança, acesso aos dados ou disponibilidade de equipamentos.
+
+[↑ Voltar ao sumário](#sumário)
+
+---
+
+<a id="respostas-registradas"></a>
 
 ## 3. Respostas registradas
 
@@ -70,6 +95,12 @@ Roteiro semiestruturado, organizado em blocos.
 | P16 | Não foi possivel entender. |
 | P17 | Descarte seguro dos materiais: por serem resíduos laboratoriais, aguardam coleta e não podem ser descartados de qualquer maneira. |
 
+[↑ Voltar ao sumário](#sumário)
+
+---
+
+<a id="sintese-das-informacoes"></a>
+
 ## 4. Síntese das informações (itens exigidos no enunciado)
 
 | Item | O que foi obtido |
@@ -83,8 +114,18 @@ Roteiro semiestruturado, organizado em blocos.
 | **Contato técnico** | A técnica entrevistada. O contato do almoxarifado e dos regentes ainda precisa ser levantado. |
 | **Restrições** | Resíduos laboratoriais exigem descarte seguro e aguardam coleta especializada; pedidos com 48h de antecedência. Restrições técnicas e institucionais ainda não investigadas. |
 
+[↑ Voltar ao sumário](#sumário)
+
+---
+
+<a id="registro-da-reuniao"></a>
+
 ## 5. Registro da reunião
-<img width="900" alt="reuniao_censurada" src="https://github.com/user-attachments/assets/28c1541b-1488-4408-a3f6-2fdb80d827e3" />
+<p align="center">
+  <img width="900" alt="reuniao_censurada" src="https://github.com/user-attachments/assets/28c1541b-1488-4408-a3f6-2fdb80d827e3" />
+</p>
 
+<p align="center"><em>Registro da videochamada do briefing. Os participantes tiveram a identidade preservada.</em></p>
 
-*Registro da videochamada do briefing. Os participantes tiveram a identidade preservada.*
+[↑ Voltar ao sumário](#sumário)
+]()
