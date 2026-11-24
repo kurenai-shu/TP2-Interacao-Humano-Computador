@@ -5,9 +5,9 @@
 
 O briefing foi realizado por videochamada (Google Meet) com uma técnica do Laboratório de Biologia do ICET/UFAM, que representa o cliente. O objetivo foi entender o problema antes de definir qualquer solução, conforme o enunciado do TP2.
 
-- **Data:** [7/11/2026]
+- **Data:** 7/11/2026
 - **Modalidade:** videochamada
-- **Participantes pela equipe:** [Sérgio Roberto e Davi Marques]
+- **Participantes pela equipe:** Sérgio Roberto e Davi Marques
 - **Cliente:** técnica de laboratório do Laboratório de Biologia (identidade preservada)
 
 ## 2. Roteiro utilizado
