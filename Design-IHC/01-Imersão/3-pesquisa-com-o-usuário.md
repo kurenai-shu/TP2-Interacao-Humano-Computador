@@ -16,7 +16,7 @@ Os dados coletados deverão apoiar a construção de personas por meio da técni
 A pesquisa utiliza formulários eletrônicos do Google Forms, com participação de pessoas que representam potenciais usuários da solução. A análise das respostas deverá ser apresentada de forma agregada, sem nomes, e-mails ou outros dados que permitam identificar os participantes.
 
 **Instrumentos:** dois formulários eletrônicos, relacionados abaixo.  
-**Públicos efetivamente alcançados:** Professores.  
+**Público Alvo:** Professores e Técnicos de Laboratório.  
 **Quantidade de respostas:** 2 respostas.
 
 ## 4. Formulário 1
