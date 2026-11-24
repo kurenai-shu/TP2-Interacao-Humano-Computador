@@ -49,13 +49,28 @@ As setas do diagrama representam a sequência prevista de navegação. Elas não
 | **Hub do professor** | Apresenta uma saudação e três atalhos: **Agendar laboratório**, **Acompanhar agendamentos** e **Histórico de requerimentos**. | Reúne as tarefas centrais das personas professoras. |
 | **Menu lateral do professor** | Apresenta **Início**, **Acompanhar agendamentos**, **Histórico de requerimentos**, **Configurações**, **Centro de Ajuda** e **Sair**, além da identificação do perfil. | Mantém um padrão de navegação semelhante ao menu da técnica, respeitando as funcionalidades de cada perfil. |
 
-![Hub da técnica](imagens/sketch-03-hub-tecnica.png)
-
-![Menu lateral da técnica](imagens/sketch-04-menu-tecnica.png)
-
-![Hub do professor](imagens/sketch-05-hub-professor.png)
-
-![Menu lateral do professor](imagens/sketch-06-menu-professor.png)
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/ccb9d620-8091-4329-a3b5-3142c68dc011" alt="Hub da técnica" width="250" /><br>
+      <sub><b>Hub da técnica</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/d2c7e75f-406e-4661-be7a-8c1d8b6452d5" alt="Menu lateral da técnica" width="250" /><br>
+      <sub><b>Menu lateral da técnica</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/74905b35-a9e2-4e5f-ad7a-f9ce300bbe52" alt="Hub do professor" width="250" /><br>
+      <sub><b>Hub do professor</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/faaefacc-6137-4d88-abee-dba24054954e" alt="Menu lateral do professor" width="250" /><br>
+      <sub><b>Menu lateral do professor</b></sub>
+    </td>
+  </tr>
+</table>
 
 ### 3.3 Acessibilidade
 
@@ -64,6 +79,8 @@ As setas do diagrama representam a sequência prevista de navegação. Elas não
 | **Configurações > Acessibilidade** | Disponibiliza o ajuste de zoom, inicialmente em **100%**, para aumentar ou diminuir o texto, e a opção **Texto em alto contraste**. | Relaciona-se ao HTA 4 e às necessidades de ampliar textos e ajustar contraste e legibilidade identificadas na persona com necessidade de acessibilidade. |
 
 ![Configurações de acessibilidade](imagens/sketch-07-acessibilidade.png)
+
+<img width="831" height="1600" alt="WhatsApp Image 2026-11-23 at 6 50 25 PM (2)" src="https://github.com/user-attachments/assets/aaab482d-519e-4efc-bda8-442612e5c175" />
 
 ### 3.4 Fluxo do professor
 
@@ -160,11 +177,11 @@ O enunciado do TP2 solicita a elaboração de versões alternativas para algumas
 <table>
   <tr>
     <td align="center">
-      <img width="280"  alt="WhatsApp Image 2026-11-23 at 6 50 30 PM" src="https://github.com/user-attachments/assets/55b89112-5ee6-4f27-a1ab-553df54981c4" />
+      <img width="280" alt="Agendar laboratório -- Tela A" src="https://github.com/user-attachments/assets/55b89112-5ee6-4f27-a1ab-553df54981c4" /><br>
       <sub><b>Agendar laboratório -- Tela A</b></sub>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/88a6fbe7-c19d-4b33-bbfd-e0e7546ca1f1" alt="Agendar laboratório -- Tela B" width="280" /><br>
+      <img width="300" alt="Agendar laboratório -- Tela B" src="https://github.com/user-attachments/assets/acf20825-8cf7-4537-8487-eee7fcc56bda" /><br>
       <sub><b>Agendar laboratório -- Tela B</b></sub>
     </td>
   </tr>
@@ -203,9 +220,18 @@ O enunciado do TP2 solicita a elaboração de versões alternativas para algumas
 | **Vantagem** | Possui poucos elementos e permite identificar rapidamente as três funcionalidades principais. | Antecipadamente, oferece informações sobre os agendamentos do dia, além dos atalhos de navegação. |
 | **Risco** | Não apresenta informações operacionais antes de o usuário acessar a área de agendamentos. | Pode concentrar informações demais na tela inicial e aumentar a carga visual. |
 
-![Hub da técnica -- Tela A](imagens/sketch-03a-hub-tecnica.png)
-
-![Hub da técnica -- Tela B](imagens/sketch-03b-hub-tecnica.png)
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/b9b75e4e-94b0-4671-9f49-e74aa23d48a0" alt="Hub da técnica -- Tela A" width="280" /><br>
+      <sub><b>Hub da técnica -- Tela A</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/5c05b5cf-15d1-4332-aaac-08365f4460c1" alt="Hub da técnica -- Tela B" width="280" /><br>
+      <sub><b>Hub da técnica -- Tela B</b></sub>
+    </td>
+  </tr>
+</table>
 
 > **Proposta de decisão:** escolher a **Tela A**. O hub funciona como ponto inicial de navegação e deve facilitar o acesso às três tarefas principais da técnica. Os cartões mantêm a interface objetiva, com menor quantidade de informações simultâneas. Os detalhes dos agendamentos podem ser consultados na tela específica de acompanhamento.
 
