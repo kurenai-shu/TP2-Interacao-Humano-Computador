@@ -8,8 +8,6 @@ A construção dos protótipos foi orientada pelas Personas, pela Metamensagem, 
 
 O conjunto apresentado contempla **17 telas**, organizadas em seis grupos: entrada no sistema, hubs e menus, acessibilidade, fluxo do professor e fluxo da técnica de laboratório. Também são apresentadas versões alternativas para três telas centrais, permitindo comparar diferentes possibilidades de organização da interface.
 
-> **Nota de terminologia:** neste protótipo, o professor realiza o agendamento do laboratório e a solicitação de equipamentos em um mesmo processo. O histórico desse processo é denominado *"Histórico de requerimentos"*. Nos HTAs e nos mapas de objetivos, podem aparecer os termos *"solicitação"* ou *"pedido"*; neste documento, eles representam o mesmo processo de interação.
-
 ---
 
 ## 2. Visão geral do fluxo
@@ -78,6 +76,9 @@ As setas do diagrama representam a sequência prevista de navegação. Elas não
 | :--- | :--- | :--- |
 | **Configurações > Acessibilidade** | Disponibiliza o ajuste de zoom, inicialmente em **100%**, para aumentar ou diminuir o texto, e a opção **Texto em alto contraste**. | Relaciona-se ao HTA 4 e às necessidades de ampliar textos e ajustar contraste e legibilidade identificadas na persona com necessidade de acessibilidade. |
 
+
+
+<img height="550" alt="WhatsApp Image 2026-11-23 at 6 50 25 PM (2)" src="https://github.com/user-attachments/assets/aaab482d-519e-4efc-bda8-442612e5c175" />
 <table>
   <tr>
     <td align="center">
@@ -167,11 +168,8 @@ As setas do diagrama representam a sequência prevista de navegação. Elas não
 
 ---
 
-## 4. Versões alternativas das telas
 
-O enunciado do TP2 solicita a elaboração de versões alternativas para algumas telas, com o objetivo de discutir possibilidades de interface e verificar qual delas apresenta melhor correspondência com o modelo de interação. Nesta seção, a **Tela A** corresponde à versão principal apresentada na seção 3, enquanto a **Tela B** representa uma alternativa de organização.
-
-### 4.1 Agendar laboratório (HTA 1)
+### 4 Agendar laboratório (HTA 1)
 
 | Critério | Tela A | Tela B |
 | :--- | :--- | :--- |
@@ -192,9 +190,8 @@ O enunciado do TP2 solicita a elaboração de versões alternativas para algumas
   </tr>
 </table>
 
-> **Proposta de decisão:** escolher a **Tela B**. A divisão por etapas organiza o preenchimento e permite que o professor confira os dados antes de submeter o agendamento. Essa estrutura também reduz a sobrecarga visual em cada etapa, aspecto relevante para a acessibilidade. Para evitar que a navegação adicional prejudique a eficiência, recomenda-se indicar claramente a etapa atual e permitir retornar às etapas anteriores sem perder os dados preenchidos.
 
-### 4.2 Acompanhar agendamento (HTA 2 e HTA 5)
+### 4.1 Acompanhar agendamento (HTA 2 e HTA 5)
 
 | Critério | Tela A | Tela B |
 | :--- | :--- | :--- |
@@ -215,9 +212,8 @@ O enunciado do TP2 solicita a elaboração de versões alternativas para algumas
   </tr>
 </table>
 
-> **Proposta de decisão:** escolher a **Tela B**. A lista de cards com filtros prioriza as informações mais relevantes para acompanhar cada solicitação, como status, laboratório, professor, data e horário. A ausência do calendário reduz a quantidade de elementos simultâneos e favorece a leitura. Os filtros por data preservam a possibilidade de localizar agendamentos de períodos específicos.
 
-### 4.3 Hub da técnica
+### 4.2 Hub da técnica
 
 | Critério | Tela A | Tela B |
 | :--- | :--- | :--- |
@@ -238,9 +234,9 @@ O enunciado do TP2 solicita a elaboração de versões alternativas para algumas
   </tr>
 </table>
 
-> **Proposta de decisão:** escolher a **Tela A**. O hub funciona como ponto inicial de navegação e deve facilitar o acesso às três tarefas principais da técnica. Os cartões mantêm a interface objetiva, com menor quantidade de informações simultâneas. Os detalhes dos agendamentos podem ser consultados na tela específica de acompanhamento.
 
-### 4.4 Síntese das decisões propostas
+
+### 4.3 Síntese das decisões propostas
 
 | Tela analisada | Versão recomendada | Justificativa principal |
 | :--- | :--- | :--- |
@@ -248,7 +244,7 @@ O enunciado do TP2 solicita a elaboração de versões alternativas para algumas
 | **Acompanhar agendamento** | **Tela B** | Maior destaque às informações e filtros que facilitam a localização dos registros. |
 | **Hub da técnica** | **Tela A** | Navegação direta e apresentação objetiva das tarefas principais. |
 
-> **Atenção:** as escolhas acima são recomendações fundamentadas na análise das alternativas e nos objetivos documentados. Antes da entrega, a equipe deve confirmar se essas decisões correspondem ao que foi efetivamente discutido e validado pelos integrantes. Não se deve apresentar uma validação com usuários como realizada caso ela não tenha acontecido.
+
 
 ---
 
