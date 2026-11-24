@@ -187,7 +187,7 @@ O enunciado do TP2 solicita a elaboração de versões alternativas para algumas
       <sub><b>Acompanhar agendamento -- Tela A</b></sub>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/4782a83f-913e-4989-883c-89c14b8c5e6f" alt="Acompanhar agendamento -- Tela B" width="280" /><br>
+      <img src="https://github.com/user-attachments/assets/4782a83f-913e-4989-883c-89c14b8c5e6f" alt="Acompanhar agendamento -- Tela B" width="300" /><br>
       <sub><b>Acompanhar agendamento -- Tela B</b></sub>
     </td>
   </tr>
