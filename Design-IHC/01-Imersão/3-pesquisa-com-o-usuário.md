@@ -64,7 +64,9 @@ Em relação ao desenvolvimento de um sistema, as funcionalidades consideradas m
 Os resultados indicam que um sistema simples e acessível poderá ajudar na organização dos pedidos, na consulta de equipamentos disponíveis e no planejamento das aulas práticas. 
 ### 4.3. Evidências
 
-<img height="500" alt="censura 2" src="https://github.com/user-attachments/assets/22d892a9-2ba6-41e4-8c91-f7aa4368cd52" />
+<img height="500" alt="censura 3" src="https://github.com/user-attachments/assets/a966e2ab-460f-4e88-ada4-cdd41f1a3ecf" />
+
+> Os dados foram censurados para preservação da identidade dos participantes
 
 
 
