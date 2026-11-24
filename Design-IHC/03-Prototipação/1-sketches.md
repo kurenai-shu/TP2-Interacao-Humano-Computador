@@ -160,7 +160,7 @@ O enunciado do TP2 solicita a elaboração de versões alternativas para algumas
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/b8c20265-1fd9-4126-8c96-f7733618e690" alt="Agendar laboratório -- Tela A" width="280" /><br>
+      <img width="825" height="1600" alt="WhatsApp Image 2026-11-23 at 6 50 30 PM" src="https://github.com/user-attachments/assets/55b89112-5ee6-4f27-a1ab-553df54981c4" />
       <sub><b>Agendar laboratório -- Tela A</b></sub>
     </td>
     <td align="center">
@@ -180,9 +180,18 @@ O enunciado do TP2 solicita a elaboração de versões alternativas para algumas
 | **Vantagem** | Permite visualizar o período e identificar os dias que possuem agendamentos. | Dá maior destaque às informações dos agendamentos e oferece leitura mais direta. |
 | **Risco** | Um calendário pequeno pode dificultar a leitura e a seleção de datas por pessoas com baixa visão. | Não apresenta a visão mensal dos agendamentos, exigindo o uso dos filtros para localizar períodos. |
 
-![Acompanhar agendamento -- Tela A](imagens/sketch-09a-acompanhar.png)
-
-![Acompanhar agendamento -- Tela B](imagens/sketch-09b-acompanhar.png)
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/114fa345-9d63-4bba-9d64-dcf0602b3a97" alt="Acompanhar agendamento -- Tela A" width="280" /><br>
+      <sub><b>Acompanhar agendamento -- Tela A</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/4782a83f-913e-4989-883c-89c14b8c5e6f" alt="Acompanhar agendamento -- Tela B" width="280" /><br>
+      <sub><b>Acompanhar agendamento -- Tela B</b></sub>
+    </td>
+  </tr>
+</table>
 
 > **Proposta de decisão:** escolher a **Tela B**. A lista de cards com filtros prioriza as informações mais relevantes para acompanhar cada solicitação, como status, laboratório, professor, data e horário. A ausência do calendário reduz a quantidade de elementos simultâneos e favorece a leitura. Os filtros por data preservam a possibilidade de localizar agendamentos de períodos específicos.
 
