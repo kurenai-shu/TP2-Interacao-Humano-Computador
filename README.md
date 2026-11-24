@@ -32,4 +32,4 @@
 📁[1-sketches](Design-IHC/03-Prototipação/1-sketches.md)
 
 # Termo De Uso de IA
-  A equipe utilizou de Inteligência Artificial (IA) para a a organização do repositório, dos questionários aplicados, de acordo com a área do entrevistado/usuário para melhor otimização no trabalho, criação das personas, revisão da metamensagem, otimização do desenvolvimento das htas e dos diagramas da molic, junto de várias revisões feitas pelos integrantes da equipe para garantir que nada esteja esquisito, ou com informações irrelevantes para o trabalho.
+  A equipe utilizou de Inteligência Artificial (IA) para a a organização do repositório, dos questionários aplicados de acordo com a área do entrevistado/usuário para melhor otimização no trabalho, criação das personas, revisão da metamensagem, otimização do desenvolvimento das htas e dos diagramas da molic, junto de várias revisões feitas pelos integrantes da equipe para garantir que nada esteja esquisito, ou com informações irrelevantes para o trabalho.
