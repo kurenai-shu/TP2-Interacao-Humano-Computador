@@ -78,7 +78,6 @@ As setas do diagrama representam a sequência prevista de navegação. Elas não
 
 
 
-<img height="550" alt="WhatsApp Image 2026-11-23 at 6 50 25 PM (2)" src="https://github.com/user-attachments/assets/aaab482d-519e-4efc-bda8-442612e5c175" />
 <table>
   <tr>
     <td align="center">
