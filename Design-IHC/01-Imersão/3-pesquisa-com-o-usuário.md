@@ -1,8 +1,29 @@
 # Pesquisa com usuários
+
+## Sumário
+
+- [1. Introdução](#1-introdução)
+- [2. Objetivos](#2-objetivos)
+- [3. Metodologia](#3-metodologia)
+- [4. Formulário 1](#4-formulário-1)
+  - [4.1. Roteiro utilizado](#41-roteiro-utilizado)
+  - [4.2. Síntese das informações obtidas](#42-síntese-das-informações-obtidas)
+  - [4.3. Evidências](#43-evidências)
+- [5. Formulário 2](#5-formulário-2)
+  - [5.1. Roteiro utilizado](#51-roteiro-utilizado)
+  - [5.2. Situação da coleta](#52-situação-da-coleta)
+
+---
+
 ## 1. Introdução
+
 Após a elaboração da Matriz CSD (Certezas, Suposições e Dúvidas), a pesquisa complementar busca conhecer a perspectiva dos usuários sobre a rotina do laboratório e as necessidades relacionadas à organização e à solicitação de recursos. A investigação complementa as informações obtidas com o cliente e contribui para avaliar suposições e dúvidas levantadas anteriormente.
 
 Os dados coletados deverão apoiar a construção de personas por meio da técnica PATHY, sem antecipar características ou necessidades que ainda não tenham sido confirmadas pelos participantes.
+
+[Voltar ao sumário](#sumário)
+
+---
 
 ## 2. Objetivos
 
@@ -11,6 +32,10 @@ Os dados coletados deverão apoiar a construção de personas por meio da técni
 - Identificar informações úteis para a elaboração de personas fundamentadas em dados reais.
 - Considerar diferentes experiências de uso e possíveis necessidades de acessibilidade.
 
+[Voltar ao sumário](#sumário)
+
+---
+
 ## 3. Metodologia
 
 A pesquisa utiliza formulários eletrônicos do Google Forms, com participação de pessoas que representam potenciais usuários da solução.
@@ -18,6 +43,10 @@ A pesquisa utiliza formulários eletrônicos do Google Forms, com participação
 **Instrumentos:** dois formulários eletrônicos, relacionados abaixo.  
 **Público Alvo:** Professores e Técnicos de Laboratório.  
 **Quantidade de respostas:** 2 respostas.
+
+[Voltar ao sumário](#sumário)
+
+---
 
 ## 4. Formulário 1
 
@@ -33,6 +62,7 @@ A pesquisa utiliza formulários eletrônicos do Google Forms, com participação
 | Situação da coleta | concluído |
 
 ### 4.1. Roteiro utilizado
+
 1. Como você classificaria sua experiência com tecnologia?
 2. Como você costuma solicitar equipamentos ou materiais para suas aulas práticas?
 3. Com que frequência você precisa solicitar equipamentos para suas aulas?
@@ -45,13 +75,14 @@ A pesquisa utiliza formulários eletrônicos do Google Forms, com participação
 10. Qual seria sua preferência para realizar solicitações de equipamentos?
 
 ### 4.2. Síntese das informações obtidas
-## **Síntese dos resultados do questionário**
+
+#### Síntese dos resultados do questionário
 
 O questionário contou com a participação de dois professores, que possuem conhecimentos básicos e intermediários em tecnologia. Ambos solicitam equipamentos frequentemente por e-mail e, apesar de não apresentarem dificuldades para realizar os pedidos, enfrentam ocasionalmente problemas com a falta de equipamentos disponíveis.
 
 Em relação ao desenvolvimento de um sistema, as funcionalidades consideradas mais importantes foram a consulta de disponibilidade dos equipamentos e o acompanhamento das solicitações. Além disso, os dois professores preferem um sistema que possa ser acessado tanto pelo celular quanto pelo computador.
 
-| **Tópicos**|**Principais Resultados**|
+| **Tópicos** | **Principais Resultados** |
 |---|---|
 |Solicitam equipamentos por e-mail|**100%**|
 |Enfrentam ocasionalmente falta de equipamentos|**100%**|
@@ -59,16 +90,22 @@ Em relação ao desenvolvimento de um sistema, as funcionalidades consideradas m
 |Priorizam a consulta de disponibilidade|**50%**|
 |Priorizam o acompanhamento dos pedidos|**50%**|
 
-## **Conclusão**
+#### Conclusão
 
 Os resultados indicam que um sistema simples e acessível poderá ajudar na organização dos pedidos, na consulta de equipamentos disponíveis e no planejamento das aulas práticas. 
 ### 4.3. Evidências
 
-<img height="500" alt="censura 3" src="https://github.com/user-attachments/assets/a966e2ab-460f-4e88-ada4-cdd41f1a3ecf" />
+<p align="center">
+  <img height="500" alt="censura 3" src="https://github.com/user-attachments/assets/a966e2ab-460f-4e88-ada4-cdd41f1a3ecf" />
+</p>
+<p align="center"><em>Figura 1 – Evidência da coleta de respostas do Formulário 1.</em></p>
 
+> [!NOTE]
 > Os dados foram censurados para preservação da identidade dos participantes
 
+[Voltar ao sumário](#sumário)
 
+---
 
 ## 5. Formulário 2
 
@@ -84,6 +121,7 @@ Os resultados indicam que um sistema simples e acessível poderá ajudar na orga
 | Situação da coleta | sem respostas |
 
 ### 5.1. Roteiro utilizado
+
 1. Quais dispositivos você mais usa no dia a dia de trabalho?
 2. Você possui alguma necessidade de acessibilidade (visual, auditiva, motora, cognitiva ou outra) que deveria ser considerada em um sistema? Se sim, explique abaixo.
 3. Os materiais ficam no almoxarifado, que entrega ao laboratório a quantidade solicitada para todo o semestre. Quando falta algum item, o laboratório precisa avisar o almoxarifado por e-mail?
@@ -100,4 +138,9 @@ Os resultados indicam que um sistema simples e acessível poderá ajudar na orga
 14. Existe alguma regra, exigência ou limitação (institucional, de segurança, de acesso a dados ou de equipamentos, como o descarte seguro de resíduos) que um sistema como esse deveria respeitar?
 15. Existe alguma outra dificuldade, necessidade ou sugestão relacionada à sua rotina no laboratório que não abordamos e que você considera importante mencionar? 
 
-## **NÃO HOUVE RESPOSTAS PARA O SEGUNDO FORMULÁRIO**
+### 5.2. Situação da coleta
+
+> [!IMPORTANT]
+> **NÃO HOUVE RESPOSTAS PARA O SEGUNDO FORMULÁRIO**
+
+[Voltar ao sumário](#sumário)
