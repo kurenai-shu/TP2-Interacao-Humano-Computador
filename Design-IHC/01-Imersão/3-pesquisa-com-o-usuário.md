@@ -61,27 +61,11 @@ Em relação ao desenvolvimento de um sistema, as funcionalidades consideradas m
 
 ## **Conclusão**
 
-Os resultados indicam que um sistema simples e acessível poderá ajudar na organização dos pedidos, na consulta de equipamentos disponíveis e no planejamento das aulas práticas. Entretanto, como apenas dois professores responderam ao questionário, os resultados ainda são preliminares.
-
-
-
-
-**Preencher somente se houver respostas:**
-
-- **Perfil dos participantes:** [síntese agregada]
-- **Principais dificuldades relatadas:** [resultados]
-- **Necessidades identificadas:** [resultados]
-- **Preferências ou expectativas:** [resultados]
-- **Questões de acessibilidade:** [quando investigadas e respondidas]
-- **Suposições da Matriz CSD apoiadas, questionadas ou ainda não resolvidas:** [análise baseada nos dados]
-
-**Caso não existam respostas:** registrar “Até a data desta documentação, o formulário não possui respostas disponíveis para análise. Portanto, ainda não é possível produzir uma síntese dos resultados.”
-
+Os resultados indicam que um sistema simples e acessível poderá ajudar na organização dos pedidos, na consulta de equipamentos disponíveis e no planejamento das aulas práticas. 
 ### 4.3. Evidências
 
-- [Inserir captura das perguntas do formulário, sem dados pessoais.]
-- [Inserir captura do resumo agregado de respostas, caso existam.]
-- [Registrar data e contexto da aplicação, preservando os participantes.]
+<img height="500" alt="censura" src="https://github.com/user-attachments/assets/c75e79a6-6a8b-4d79-9268-26b559fd9f8a" />
+
 
 ## 5. Formulário 2
 
