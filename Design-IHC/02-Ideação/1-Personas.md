@@ -1,4 +1,4 @@
-[1-Personas.md](https://github.com/user-attachments/files/35307819/1-Personas.md)# Personas
+# Personas
 
 ## Introdução
 
