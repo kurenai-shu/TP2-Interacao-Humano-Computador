@@ -73,15 +73,23 @@ As setas do diagrama representam a sequência prevista de navegação. Elas não
 | **Acompanhar agendamento (professor)** | Apresenta a semana atual e uma lista de agendamentos com código, laboratório, data e horário. Também informa sobre a ativação das notificações. | Relaciona-se ao HTA 2, permitindo acompanhar o andamento dos pedidos. |
 | **Histórico de requerimentos** | Apresenta um alerta de proximidade da aula, como **Faltam 4h**, filtros por disciplina e período e uma lista dos requerimentos realizados. | Complementa o HTA 2, permitindo consultar registros, confirmações, atualizações e lembretes. |
 
-![Agendar laboratório](imagens/sketch-08-agendar-laboratorio.png)
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/8cc6ccc7-07a9-463e-b405-4f599c9e9de1" alt="Agendar laboratório" width="250" /><br>
+      <sub><b>Agendar laboratório</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/d6461ea8-1bea-4458-9257-12081ae3fe93" alt="Acompanhar agendamento (professor)" width="250" /><br>
+      <sub><b>Acompanhar agendamento (professor)</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/cd34c779-f0cb-4e4b-a51d-e3ffb3e40d62" alt="Histórico de requerimentos" width="250" /><br>
+      <sub><b>Histórico de requerimentos</b></sub>
+    </td>
+  </tr>
+</table>
 
-<img width="825" height="1600" alt="WhatsApp Image 2026-11-23 at 6 50 30 PM" src="https://github.com/user-attachments/assets/8cc6ccc7-07a9-463e-b405-4f599c9e9de1" />
-
-![Acompanhar agendamento (professor)](imagens/sketch-09-acompanhar-professor.png)
-
-<img width="835" height="1600" alt="WhatsApp Image 2026-11-23 at 6 50 25 PM" src="https://github.com/user-attachments/assets/d6461ea8-1bea-4458-9257-12081ae3fe93" />
-
-![Histórico de requerimentos](imagens/sketch-10-historico.png)
 
 ### 3.5 Fluxo da técnica de laboratório
 
