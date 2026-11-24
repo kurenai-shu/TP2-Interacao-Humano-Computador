@@ -51,21 +51,13 @@ O questionário contou com a participação de dois professores, que possuem con
 
 Em relação ao desenvolvimento de um sistema, as funcionalidades consideradas mais importantes foram a consulta de disponibilidade dos equipamentos e o acompanhamento das solicitações. Além disso, os dois professores preferem um sistema que possa ser acessado tanto pelo celular quanto pelo computador.
 
-|## **Principais resultados**|
+| **Tópicos**|**Principais Resultados**|
 |---|---|
 |Solicitam equipamentos por e-mail|**100%**|
-
 |Enfrentam ocasionalmente falta de equipamentos|**100%**|
-
 |Preferem acesso pelo celular e computador|**100%**|
-
-|Priorizam a consulta de disponibilidade|
-
-|**50%**|
-
-|Priorizam o acompanhamento dos pedidos|
-
-|**50%**|
+|Priorizam a consulta de disponibilidade|**50%**|
+|Priorizam o acompanhamento dos pedidos|**50%**|
 
 ## **Conclusão**
 
