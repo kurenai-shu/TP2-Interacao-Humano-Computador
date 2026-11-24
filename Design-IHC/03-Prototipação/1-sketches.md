@@ -181,7 +181,7 @@ O enunciado do TP2 solicita a elaboração de versões alternativas para algumas
       <sub><b>Agendar laboratório -- Tela A</b></sub>
     </td>
     <td align="center">
-      <img width="320" alt="Agendar laboratório -- Tela B" src="https://github.com/user-attachments/assets/8fd61b53-562e-484a-b825-0deb2d9eba0d" /><br>
+      <img width="310" alt="Agendar laboratório -- Tela B" src="https://github.com/user-attachments/assets/8fd61b53-562e-484a-b825-0deb2d9eba0d" /><br>
       <sub><b>Agendar laboratório -- Tela B</b></sub>
     </td>
   </tr>
@@ -227,7 +227,7 @@ O enunciado do TP2 solicita a elaboração de versões alternativas para algumas
       <sub><b>Hub da técnica -- Tela A</b></sub>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/5c05b5cf-15d1-4332-aaac-08365f4460c1" alt="Hub da técnica -- Tela B" width="280" /><br>
+      <img src="https://github.com/user-attachments/assets/5c05b5cf-15d1-4332-aaac-08365f4460c1" alt="Hub da técnica -- Tela B" width="300" /><br>
       <sub><b>Hub da técnica -- Tela B</b></sub>
     </td>
   </tr>
