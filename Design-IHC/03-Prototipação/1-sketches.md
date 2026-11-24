@@ -103,19 +103,45 @@ As setas do diagrama representam a sequência prevista de navegação. Elas não
 | **Cadastro de professores** | Apresenta busca, opção **Incluir** e lista de professores com nome, tipo de usuário e ações de editar e excluir. | Apoia a consulta e a manutenção das informações dos responsáveis, relacionada ao HTA 7. |
 | **Cadastro de professor (formulário)** | Apresenta campos para data, matrícula, nome, e-mail, senha e confirmação de senha, além das regras de formação da senha e do botão **Salvar**. | Complementa o cadastro e a manutenção dos responsáveis pelo uso do sistema. |
 
-![Acompanhar agendamento (técnica)](imagens/sketch-11-acompanhar-tecnica.png)
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/ecc0e454-87ed-465d-9a3e-e7410e7bb6aa" alt="Acompanhar agendamento (técnica)" width="250" /><br>
+      <sub><b>Acompanhar agendamento (técnica)</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/cb090386-1770-4c49-bfdf-1950e13227d4" alt="Controle de estoque" width="250" /><br>
+      <sub><b>Controle de estoque</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/b44711d9-b397-48f2-beaa-a2d0e020c6f5" alt="Inventário de estoque" width="250" /><br>
+      <sub><b>Inventário de estoque</b></sub>
+    </td>
+  </tr>
+</table>
 
-![Controle de estoque](imagens/sketch-12-controle-estoque.png)
-
-![Inventário de estoque](imagens/sketch-13-inventario.png)
-
-![Lançamento de perda](imagens/sketch-14-lancamento-perda.png)
-
-![Saída de materiais](imagens/sketch-15-saida-materiais.png)
-
-![Cadastro de professores](imagens/sketch-16-cadastro-professores.png)
-
-![Cadastro de professor (formulário)](imagens/sketch-17-cadastro-formulario.png)
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/3b749845-3f88-4c40-a0e0-aa7f2670d6fa" alt="Lançamento de perda" width="250" /><br>
+      <sub><b>Lançamento de perda</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/0f5930a5-449c-4d34-ada1-dd1ee937e425" alt="Saída de materiais" width="250" /><br>
+      <sub><b>Saída de materiais</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/04323a17-6397-4a54-9b73-eb5d0ded3689" alt="Cadastro de professores" width="250" /><br>
+      <sub><b>Cadastro de professores</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/30b523a1-6db0-499d-876f-e9b241e705f8" alt="Cadastro de professor (formulário)" width="250" /><br>
+      <sub><b>Cadastro de professor (formulário)</b></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
