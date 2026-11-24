@@ -1,10 +1,41 @@
 # Matriz CSD
 
+<a id="sumario"></a>
+
+## Sumário
+
+- [1. Introdução](#introducao)
+- [2. C – Certezas](#certezas)
+- [3. S – Suposições](#suposicoes)
+- [4. D – Dúvidas](#duvidas)
+- [5. Representação gráfica](#representacao-grafica)
+
+---
+
+<a id="introducao"></a>
+
+## 1. Introdução
+
 Após o briefing com uma técnica do Laboratório de Biologia do ICET/UFAM, a equipe organizou as informações em uma Matriz CSD (Certezas, Suposições e Dúvidas). O objetivo é separar o que tem respaldo na fala da entrevistada do que ainda precisa ser confirmado e do que ainda não se sabe. As suposições e dúvidas orientam a pesquisa complementar com os usuários.
 
-**Legenda:** P = pergunta do roteiro da entrevista 
+> **Legenda:** P = pergunta do roteiro da entrevista
 
-## C – Certezas
+### Visão geral
+
+| Categoria | Quantidade |
+|---|---:|
+| Certezas | 14 |
+| Suposições | 9 |
+| Dúvidas | 17 |
+| **Total** | **40** |
+
+[↑ Voltar ao sumário](#sumario)
+
+---
+
+<a id="certezas"></a>
+
+## 2. C – Certezas
 
 Informações sustentadas diretamente pela fala da entrevistada. A fonte é uma única pessoa: a técnica do Laboratório de Biologia.
 
@@ -25,7 +56,13 @@ Informações sustentadas diretamente pela fala da entrevistada. A fonte é uma 
 | C13 | Os resíduos laboratoriais não podem ser descartados de qualquer forma e aguardam coleta especializada. | P17 |
 | C14 | A falta de organização dos professores quanto à antecedência dos pedidos afeta o trabalho do laboratório. | P15 |
 
-## S – Suposições
+[↑ Voltar ao sumário](#sumario)
+
+---
+
+<a id="suposicoes"></a>
+
+## 3. S – Suposições
 
 Hipóteses plausíveis que ainda precisam ser confirmadas na pesquisa com os usuários.
 
@@ -41,7 +78,13 @@ Hipóteses plausíveis que ainda precisam ser confirmadas na pesquisa com os usu
 | S8 | As tarefas administrativas ocupam parte significativa do tempo da técnica. | A técnica assumiu a parte administrativa (P5). |
 | S9 | Além dos professores, podem depender do laboratório pesquisadores e alunos. | A técnica confirmou que outras pessoas dependem do laboratório, sem especificar quais (P11). |
 
-## D – Dúvidas
+[↑ Voltar ao sumário](#sumario)
+
+---
+
+<a id="duvidas"></a>
+
+## 4. D – Dúvidas
 
 Questões que a equipe ainda não consegue responder e que devem orientar as próximas etapas.
 
@@ -65,16 +108,29 @@ Questões que a equipe ainda não consegue responder e que devem orientar as pr�
 | D16 | Existem usuários (professores, técnicos, alunos) com necessidade de acessibilidade que usariam o processo de pedidos? | Entrevistar professores e a coordenação. |
 | D17 | Os problemas relatados também ocorrem em outros laboratórios ou são específicos do Laboratório de Biologia? | Entrevistar técnicos de outros laboratórios. |
 
+[↑ Voltar ao sumário](#sumario)
+
 ---
+
+<a id="representacao-grafica"></a>
+
+## 5. Representação gráfica
+
 A seguir, você pode conferir os quadros que ilustram a distribuição dos elementos da Matriz CSD:
 
-| |
-| :---: |
-| <div align="center"><img width="1000" alt="1" src="https://github.com/user-attachments/assets/75789c60-70bd-4dc5-89c1-2785dd0eeefe" /></div> |
-| **Figura 1** -- Matriz CSD |
+<p align="center">
+  <img width="1000" alt="1" src="https://github.com/user-attachments/assets/75789c60-70bd-4dc5-89c1-2785dd0eeefe" />
+</p>
+<p align="center">
+  <em><strong>Figura 1</strong> -- Matriz CSD</em>
+</p>
 
-| |
-| :---: |
-| <div align="center"><img width="1000" alt="1" src="https://github.com/user-attachments/assets/9cb25135-0668-44fb-8677-7d25d9a07a77"/></div> |
-| **Figura 2** -- Matriz CSD |
+<p align="center">
+  <img width="1000" alt="1" src="https://github.com/user-attachments/assets/9cb25135-0668-44fb-8677-7d25d9a07a77"/>
+</p>
+<p align="center">
+  <em><strong>Figura 2</strong> -- Matriz CSD</em>
+</p>
+
+[↑ Voltar ao sumário](#sumario)
 
