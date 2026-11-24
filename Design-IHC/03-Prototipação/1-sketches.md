@@ -181,7 +181,7 @@ O enunciado do TP2 solicita a elaboração de versões alternativas para algumas
       <sub><b>Agendar laboratório -- Tela A</b></sub>
     </td>
     <td align="center">
-      <img width="300" alt="Agendar laboratório -- Tela B" src="https://github.com/user-attachments/assets/8fd61b53-562e-484a-b825-0deb2d9eba0d" /><br>
+      <img width="320" alt="Agendar laboratório -- Tela B" src="https://github.com/user-attachments/assets/8fd61b53-562e-484a-b825-0deb2d9eba0d" /><br>
       <sub><b>Agendar laboratório -- Tela B</b></sub>
     </td>
   </tr>
