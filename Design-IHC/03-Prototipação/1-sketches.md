@@ -80,10 +80,11 @@ As setas do diagrama representam a sequência prevista de navegação. Elas não
 
 <table>
   <tr>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/aaab482d-519e-4efc-bda8-442612e5c175" alt="Configurações de acessibilidade" width="280" /><br>
+   <div align="center">
+    <img src="https://github.com/user-attachments/assets/aaab482d-519e-4efc-bda8-442612e5c175" alt="Configurações de acessibilidade" width="280" /><br>
       <sub><b>Configurações de acessibilidade</b></sub>
-    </td>
+      </td>
+   </div>
   </tr>
 </table>
 
