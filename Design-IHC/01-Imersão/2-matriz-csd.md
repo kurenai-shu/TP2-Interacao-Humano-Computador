@@ -2,7 +2,7 @@
 
 Após o briefing com uma técnica do Laboratório de Biologia do ICET/UFAM, a equipe organizou as informações em uma Matriz CSD (Certezas, Suposições e Dúvidas). O objetivo é separar o que tem respaldo na fala da entrevistada do que ainda precisa ser confirmado e do que ainda não se sabe. As suposições e dúvidas orientam a pesquisa complementar com os usuários.
 
-**Legenda:** P = pergunta do roteiro da entrevista (a numeração segue o roteiro registrado em `1-briefing.md`).
+**Legenda:** P = pergunta do roteiro da entrevista 
 
 ## C – Certezas
 
